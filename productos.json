@@ -27,7 +27,9 @@
     ],
     "descripcion": "Agua con gas.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/agua-con-gas/images/agua-con-gas-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
