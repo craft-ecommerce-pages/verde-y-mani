@@ -1,1 +1,1518 @@
-[]
+[
+  {
+    "id": "c758f9c7-20c7-4c7b-b72d-728a79ccf4de",
+    "slug": "agua",
+    "nombre": "Agua",
+    "precio": "0.75",
+    "precio_promo": "",
+    "categorias": [
+      "bebidas"
+    ],
+    "descripcion": "Agua sin gas.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "7ac16b74-06c1-4199-9107-b99ed665c6e1",
+    "slug": "agua-con-gas",
+    "nombre": "Agua con gas",
+    "precio": "0.90",
+    "precio_promo": "",
+    "categorias": [
+      "bebidas"
+    ],
+    "descripcion": "Agua con gas.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "251e0590-f07d-43b2-b7ed-b3a14bf6ba22",
+    "slug": "arroz-con-camaron",
+    "nombre": "Arroz con camarón",
+    "precio": "8.50",
+    "precio_promo": "",
+    "categorias": [
+      "arroces-especiales"
+    ],
+    "descripcion": "Arroz preparado con camarón.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "aac66fe4-4f9a-4621-b280-7088e77bbff7",
+    "slug": "arroz-con-concha",
+    "nombre": "Arroz con concha",
+    "precio": "9.00",
+    "precio_promo": "",
+    "categorias": [
+      "arroces-especiales"
+    ],
+    "descripcion": "Arroz preparado con concha.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "53523b3c-9254-4411-999e-75bb5e46ad33",
+    "slug": "arroz-marinero",
+    "nombre": "Arroz marinero",
+    "precio": "12.00",
+    "precio_promo": "",
+    "categorias": [
+      "arroces-especiales"
+    ],
+    "descripcion": "Arroz marinero de la casa.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "52c35dbb-cfb8-407e-8fd1-1ae8318a62b7",
+    "slug": "arroz-mixto",
+    "nombre": "Arroz mixto",
+    "precio": "10.00",
+    "precio_promo": "",
+    "categorias": [
+      "arroces-especiales"
+    ],
+    "descripcion": "Arroz mixto de mariscos.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "ea81e880-0e51-4635-8323-ca8fab71bce3",
+    "slug": "atarraya",
+    "nombre": "Atarraya",
+    "precio": "11.00",
+    "precio_promo": "",
+    "categorias": [
+      "arroces-especiales"
+    ],
+    "descripcion": "Especialidad de la casa.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "bfc23166-a024-412a-98e3-4fdd2399ed2d",
+    "slug": "bandera",
+    "nombre": "Bandera",
+    "precio": "12.00",
+    "precio_promo": "",
+    "categorias": [
+      "arroces-especiales"
+    ],
+    "descripcion": "Especialidad costeña de la casa.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "8bb1ce55-b721-465d-b40b-26e52832d6e0",
+    "slug": "batido",
+    "nombre": "Batido",
+    "precio": "3.50",
+    "precio_promo": "",
+    "categorias": [
+      "bebidas"
+    ],
+    "descripcion": "Batido de fruta natural.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [
+      {
+        "name": "Sabor",
+        "options": [
+          "Mora",
+          "Naranjilla",
+          "Mango",
+          "Coco",
+          "Guanábana"
+        ],
+        "type": "option"
+      }
+    ],
+    "sku": ""
+  },
+  {
+    "id": "97b7d3f7-977f-4f28-a09e-b76ad12ca039",
+    "slug": "bistec-de-higado",
+    "nombre": "Bistec de hígado",
+    "precio": "4.75",
+    "precio_promo": "",
+    "categorias": [
+      "almuerzos"
+    ],
+    "descripcion": "Bistec de hígado.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "d24bb319-9cb0-411b-9505-681e72834de3",
+    "slug": "bolon-combo",
+    "nombre": "Bolón combo",
+    "precio": "3.00",
+    "precio_promo": "",
+    "categorias": [
+      "delicias-verde"
+    ],
+    "descripcion": "Incluye huevo y bebida caliente a escoger.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [
+      {
+        "name": "Relleno",
+        "options": [
+          {
+            "label": "Queso ($3.00)",
+            "price": 3
+          },
+          {
+            "label": "Chicharrón ($3.30)",
+            "price": 3.3
+          },
+          {
+            "label": "Mixto ($3.75)",
+            "price": 3.75
+          }
+        ]
+      }
+    ],
+    "sku": ""
+  },
+  {
+    "id": "63be427a-6409-4d5f-af0b-f7ed5ea6633b",
+    "slug": "bolon-combo-1",
+    "nombre": "Bolón combo 1",
+    "precio": "4.00",
+    "precio_promo": "",
+    "categorias": [
+      "delicias-verde"
+    ],
+    "descripcion": "Con seco de carne, pollo, chancho o costilla. Incluye huevo y bebida caliente a escoger.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [
+      {
+        "name": "Relleno",
+        "options": [
+          {
+            "label": "Queso ($4.00)",
+            "price": 4
+          },
+          {
+            "label": "Chicharrón ($4.30)",
+            "price": 4.3
+          },
+          {
+            "label": "Mixto ($4.75)",
+            "price": 4.75
+          }
+        ]
+      },
+      {
+        "name": "Seco",
+        "options": [
+          "Carne",
+          "Pollo",
+          "Chancho",
+          "Costilla"
+        ],
+        "type": "option"
+      }
+    ],
+    "sku": ""
+  },
+  {
+    "id": "c315d0f5-b7d5-40b0-9b4f-fcc116bed372",
+    "slug": "bolon-combo-2",
+    "nombre": "Bolón combo 2",
+    "precio": "5.00",
+    "precio_promo": "",
+    "categorias": [
+      "delicias-verde"
+    ],
+    "descripcion": "Con bistec de hígado o sudado de pescado. Incluye huevo y bebida caliente a escoger.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [
+      {
+        "name": "Relleno",
+        "options": [
+          {
+            "label": "Queso ($5.00)",
+            "price": 5
+          },
+          {
+            "label": "Chicharrón ($5.30)",
+            "price": 5.3
+          },
+          {
+            "label": "Mixto ($5.75)",
+            "price": 5.75
+          }
+        ]
+      },
+      {
+        "name": "Acompañamiento",
+        "options": [
+          "Bistec de hígado",
+          "Sudado de pescado"
+        ],
+        "type": "option"
+      }
+    ],
+    "sku": ""
+  },
+  {
+    "id": "37db1d38-8e10-4a4f-9965-b9c565981b3e",
+    "slug": "bolon-combo-3",
+    "nombre": "Bolón combo 3",
+    "precio": "6.20",
+    "precio_promo": "",
+    "categorias": [
+      "delicias-verde"
+    ],
+    "descripcion": "Con encocado de camarón o pescado. Incluye huevo y bebida caliente a escoger.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [
+      {
+        "name": "Relleno",
+        "options": [
+          {
+            "label": "Queso ($6.20)",
+            "price": 6.2
+          },
+          {
+            "label": "Chicharrón ($6.70)",
+            "price": 6.7
+          },
+          {
+            "label": "Mixto ($6.95)",
+            "price": 6.95
+          }
+        ]
+      },
+      {
+        "name": "Encocado",
+        "options": [
+          "Camarón",
+          "Pescado"
+        ],
+        "type": "option"
+      }
+    ],
+    "sku": ""
+  },
+  {
+    "id": "76864027-7350-4ab7-82ca-ece362e82d40",
+    "slug": "bolon-de-maduro",
+    "nombre": "Bolón de maduro",
+    "precio": "2.00",
+    "precio_promo": "",
+    "categorias": [
+      "delicias-verde"
+    ],
+    "descripcion": "Bolón preparado con maduro.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [
+      {
+        "name": "Relleno",
+        "options": [
+          {
+            "label": "Queso ($2.00)",
+            "price": 2
+          },
+          {
+            "label": "Chicharrón ($2.00)",
+            "price": 2
+          },
+          {
+            "label": "Mixto ($2.50)",
+            "price": 2.5
+          }
+        ]
+      }
+    ],
+    "sku": ""
+  },
+  {
+    "id": "1a8c1e20-6890-432c-ac20-a4120a109d90",
+    "slug": "bolon-de-verde",
+    "nombre": "Bolón de verde",
+    "precio": "2.00",
+    "precio_promo": "",
+    "categorias": [
+      "delicias-verde"
+    ],
+    "descripcion": "Tradicional bolón preparado con verde.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [
+      {
+        "name": "Relleno",
+        "options": [
+          {
+            "label": "Queso ($2.00)",
+            "price": 2
+          },
+          {
+            "label": "Chicharrón ($2.25)",
+            "price": 2.25
+          },
+          {
+            "label": "Mixto ($2.50)",
+            "price": 2.5
+          }
+        ]
+      }
+    ],
+    "sku": ""
+  },
+  {
+    "id": "60ceaa0d-3f03-4ea4-8d06-542feedb538f",
+    "slug": "bolon-marinero",
+    "nombre": "Bolón marinero",
+    "precio": "9.00",
+    "precio_promo": "",
+    "categorias": [
+      "delicias-verde"
+    ],
+    "descripcion": "Bolón de verde con preparación marinera.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [
+      {
+        "name": "Relleno",
+        "options": [
+          {
+            "label": "Queso ($9.00)",
+            "price": 9
+          },
+          {
+            "label": "Chicharrón ($9.50)",
+            "price": 9.5
+          },
+          {
+            "label": "Mixto ($10.00)",
+            "price": 10
+          }
+        ]
+      }
+    ],
+    "sku": ""
+  },
+  {
+    "id": "93aa339a-00f5-4a30-b613-25855b3881de",
+    "slug": "cafe",
+    "nombre": "Café",
+    "precio": "0.85",
+    "precio_promo": "",
+    "categorias": [
+      "bebidas"
+    ],
+    "descripcion": "Café caliente.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "92d5b457-ee5a-4498-b5dc-8d22f1a36992",
+    "slug": "caldo-de-bagre",
+    "nombre": "Caldo de bagre",
+    "precio": "6.00",
+    "precio_promo": "",
+    "categorias": [
+      "arroces-especiales"
+    ],
+    "descripcion": "Caldo tradicional de bagre.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "86cd2916-58bd-4611-bbe9-0c55796bdef1",
+    "slug": "camarones",
+    "nombre": "Camarones",
+    "precio": "8.50",
+    "precio_promo": "",
+    "categorias": [
+      "pescados-mariscos"
+    ],
+    "descripcion": "Camarones preparados a tu gusto.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [
+      {
+        "name": "Preparación",
+        "options": [
+          {
+            "label": "Al ajillo ($8.50)",
+            "price": 8.5
+          },
+          {
+            "label": "Apanados ($8.50)",
+            "price": 8.5
+          },
+          {
+            "label": "Encocados ($8.50)",
+            "price": 8.5
+          },
+          {
+            "label": "A la plancha ($8.50)",
+            "price": 8.5
+          }
+        ]
+      }
+    ],
+    "sku": ""
+  },
+  {
+    "id": "10e04243-4368-4051-a055-fe56460f387e",
+    "slug": "cangrejo",
+    "nombre": "Cangrejo",
+    "precio": "15.00",
+    "precio_promo": "",
+    "categorias": [
+      "pescados-mariscos"
+    ],
+    "descripcion": "Criollo, al ajillo o encocado. Incluye sopa, arroz, patacones y encurtido.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [
+      {
+        "name": "Porción",
+        "options": [
+          {
+            "label": "Ideal · 2 cangrejos ($15.00)",
+            "price": 15
+          },
+          {
+            "label": "Dúo · 4 cangrejos ($15.00)",
+            "price": 15
+          },
+          {
+            "label": "Familiar · 8 cangrejos ($15.00)",
+            "price": 15
+          }
+        ]
+      },
+      {
+        "name": "Preparación",
+        "options": [
+          "Criollo",
+          "Al ajillo",
+          "Encocado"
+        ],
+        "type": "option"
+      }
+    ],
+    "sku": ""
+  },
+  {
+    "id": "d3fc5baf-8ac1-4d5d-820b-b599c0c6ade8",
+    "slug": "cazuela-de-mariscos",
+    "nombre": "Cazuela de mariscos",
+    "precio": "13.50",
+    "precio_promo": "",
+    "categorias": [
+      "arroces-especiales"
+    ],
+    "descripcion": "Cazuela cremosa de mariscos.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "28c9d0c7-497b-4cda-9c26-155554f89e41",
+    "slug": "ceviche",
+    "nombre": "Ceviche",
+    "precio": "8.50",
+    "precio_promo": "",
+    "categorias": [
+      "encebollados-ceviches"
+    ],
+    "descripcion": "Incluye porción de arroz o patacones. Hazlo Jipijapa por $1.00 adicional.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [
+      {
+        "name": "Tipo",
+        "options": [
+          {
+            "label": "Pescado ($8.50)",
+            "price": 8.5
+          },
+          {
+            "label": "Camarón ($8.50)",
+            "price": 8.5
+          },
+          {
+            "label": "Concha ($9.00)",
+            "price": 9
+          },
+          {
+            "label": "Mixto ($10.00)",
+            "price": 10
+          },
+          {
+            "label": "Completo ($11.00)",
+            "price": 11
+          }
+        ]
+      },
+      {
+        "name": "Acompañamiento",
+        "options": [
+          "Arroz",
+          "Patacones"
+        ],
+        "type": "option"
+      },
+      {
+        "name": "Estilo",
+        "options": [
+          "Tradicional",
+          "Jipijapa (+$1.00)"
+        ],
+        "type": "option"
+      }
+    ],
+    "sku": ""
+  },
+  {
+    "id": "3dc088f4-4899-441b-9c40-3a9e0deabade",
+    "slug": "chicharron-de-pescado",
+    "nombre": "Chicharrón de pescado",
+    "precio": "22.00",
+    "precio_promo": "",
+    "categorias": [
+      "arroces-especiales"
+    ],
+    "descripcion": "Crujiente chicharrón de pescado.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "360021d0-8b36-41d5-8cbd-7a706b41ff43",
+    "slug": "club",
+    "nombre": "Club",
+    "precio": "3.00",
+    "precio_promo": "",
+    "categorias": [
+      "bebidas"
+    ],
+    "descripcion": "Cerveza Club.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "def6594d-ed9b-4516-8563-a569bc0a001c",
+    "slug": "conchas-asadas",
+    "nombre": "Conchas asadas",
+    "precio": "11.50",
+    "precio_promo": "",
+    "categorias": [
+      "arroces-especiales"
+    ],
+    "descripcion": "Conchas asadas.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "e1752bb8-cba8-488f-894b-6c45ebf1eb63",
+    "slug": "conchas-asadas-con-queso-gratinado",
+    "nombre": "Conchas asadas con queso gratinado",
+    "precio": "13.50",
+    "precio_promo": "",
+    "categorias": [
+      "arroces-especiales"
+    ],
+    "descripcion": "Conchas asadas cubiertas con queso gratinado.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "891c1074-161f-4028-b6bd-9c12210694fb",
+    "slug": "desayuno-completo",
+    "nombre": "Desayuno completo",
+    "precio": "6.50",
+    "precio_promo": "",
+    "categorias": [
+      "desayunos"
+    ],
+    "descripcion": "Seco a elección, 2 sanduches, 2 huevos al gusto, café y jugo.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [
+      {
+        "name": "Seco",
+        "options": [
+          "Pollo",
+          "Carne",
+          "Chancho",
+          "Costilla"
+        ],
+        "type": "option"
+      }
+    ],
+    "sku": ""
+  },
+  {
+    "id": "87032c3e-26b2-49a3-ad12-a2d4f1126806",
+    "slug": "desayuno-continental",
+    "nombre": "Desayuno continental",
+    "precio": "4.00",
+    "precio_promo": "",
+    "categorias": [
+      "desayunos"
+    ],
+    "descripcion": "2 sanduches, 2 huevos al gusto, fruta, café y jugo.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "0cdc5aad-ca26-4d19-91b0-7972741379b0",
+    "slug": "desayuno-costeno",
+    "nombre": "Desayuno costeño",
+    "precio": "5.50",
+    "precio_promo": "",
+    "categorias": [
+      "desayunos"
+    ],
+    "descripcion": "Tortilla de camarón, patacones, café y jugo.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "9409586c-10ed-4e75-95aa-8b9fe7e2ab44",
+    "slug": "desayuno-especial",
+    "nombre": "Desayuno especial",
+    "precio": "7.50",
+    "precio_promo": "",
+    "categorias": [
+      "desayunos"
+    ],
+    "descripcion": "Patacones en salsa cremosa a base de camarones, pollo y champiñones.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "e5eea8db-e8c9-4acb-b306-10511cf7af70",
+    "slug": "desayuno-montubio",
+    "nombre": "Desayuno montubio",
+    "precio": "5.50",
+    "precio_promo": "",
+    "categorias": [
+      "desayunos"
+    ],
+    "descripcion": "2 tortillas de yuca, 2 huevos tiernos, bistec de hígado, café y jugo.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "1a5ed379-84d7-49a4-ad63-786d9c20a7e2",
+    "slug": "empanada-de-verde",
+    "nombre": "Empanada de verde",
+    "precio": "1.60",
+    "precio_promo": "",
+    "categorias": [
+      "empanadas-yuca"
+    ],
+    "descripcion": "Empanada de verde con el relleno de tu preferencia.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [
+      {
+        "name": "Relleno",
+        "options": [
+          {
+            "label": "Queso ($1.60)",
+            "price": 1.6
+          },
+          {
+            "label": "Pollo ($1.85)",
+            "price": 1.85
+          },
+          {
+            "label": "Camarón ($2.20)",
+            "price": 2.2
+          }
+        ]
+      }
+    ],
+    "sku": ""
+  },
+  {
+    "id": "03ed42eb-ac06-4a49-9755-4ad361913762",
+    "slug": "encebollado-de-camaron",
+    "nombre": "Encebollado de camarón",
+    "precio": "7.00",
+    "precio_promo": "",
+    "categorias": [
+      "encebollados-ceviches"
+    ],
+    "descripcion": "Encebollado costeño de camarón.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "b0d092ee-9f62-478d-bc74-e315e9607f68",
+    "slug": "encebollado-de-pescado",
+    "nombre": "Encebollado de pescado",
+    "precio": "4.00",
+    "precio_promo": "",
+    "categorias": [
+      "encebollados-ceviches"
+    ],
+    "descripcion": "Encebollado costeño de pescado.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "8dec3bf4-1474-4ffa-a721-7202e39b3778",
+    "slug": "encebollado-marinero",
+    "nombre": "Encebollado marinero",
+    "precio": "9.75",
+    "precio_promo": "",
+    "categorias": [
+      "encebollados-ceviches"
+    ],
+    "descripcion": "Encebollado marinero.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "a50080e4-2d93-44b6-84e7-35823b119d8f",
+    "slug": "encebollado-mixto",
+    "nombre": "Encebollado mixto",
+    "precio": "8.50",
+    "precio_promo": "",
+    "categorias": [
+      "encebollados-ceviches"
+    ],
+    "descripcion": "Encebollado mixto.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "d334780d-5332-45aa-a1a3-8db400bf8a7c",
+    "slug": "gaseosa-mediana",
+    "nombre": "Gaseosa mediana",
+    "precio": "0.95",
+    "precio_promo": "",
+    "categorias": [
+      "bebidas"
+    ],
+    "descripcion": "Gaseosa tamaño mediano.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "a7dcf180-6e93-47ee-8526-d65eee6b31a9",
+    "slug": "gaseosa-pequena",
+    "nombre": "Gaseosa pequeña",
+    "precio": "0.85",
+    "precio_promo": "",
+    "categorias": [
+      "bebidas"
+    ],
+    "descripcion": "Gaseosa tamaño pequeño.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "8010d287-eb08-46ab-9585-6876a66f7508",
+    "slug": "guatita",
+    "nombre": "Guatita",
+    "precio": "4.50",
+    "precio_promo": "",
+    "categorias": [
+      "almuerzos"
+    ],
+    "descripcion": "Guatita tradicional.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "897e2882-e1bf-43c7-a9f6-daaedf850790",
+    "slug": "jarra-de-jugo",
+    "nombre": "Jarra de jugo",
+    "precio": "5.00",
+    "precio_promo": "",
+    "categorias": [
+      "bebidas"
+    ],
+    "descripcion": "Jarra de jugo de fruta natural.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [
+      {
+        "name": "Sabor",
+        "options": [
+          "Mora",
+          "Naranjilla",
+          "Mango",
+          "Coco",
+          "Guanábana"
+        ],
+        "type": "option"
+      }
+    ],
+    "sku": ""
+  },
+  {
+    "id": "bf78cc3c-fc8b-43a9-be34-0af445f4e7e1",
+    "slug": "jarra-de-limonada",
+    "nombre": "Jarra de limonada",
+    "precio": "4.50",
+    "precio_promo": "",
+    "categorias": [
+      "bebidas"
+    ],
+    "descripcion": "Jarra de limonada natural.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "243389e4-7784-4871-b707-174f45b08ebb",
+    "slug": "jugo-natural",
+    "nombre": "Jugo natural",
+    "precio": "2.50",
+    "precio_promo": "",
+    "categorias": [
+      "bebidas"
+    ],
+    "descripcion": "Jugo de fruta natural.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [
+      {
+        "name": "Sabor",
+        "options": [
+          "Mora",
+          "Naranjilla",
+          "Mango",
+          "Coco",
+          "Guanábana"
+        ],
+        "type": "option"
+      }
+    ],
+    "sku": ""
+  },
+  {
+    "id": "3ab06cda-3bfe-425e-aab7-f248149ae44e",
+    "slug": "limonada",
+    "nombre": "Limonada",
+    "precio": "1.75",
+    "precio_promo": "",
+    "categorias": [
+      "bebidas"
+    ],
+    "descripcion": "Limonada natural.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "adf3d0f8-82c4-414b-a8a3-82c96dd30575",
+    "slug": "limonada-de-coco",
+    "nombre": "Limonada de coco",
+    "precio": "3.75",
+    "precio_promo": "",
+    "categorias": [
+      "bebidas"
+    ],
+    "descripcion": "Limonada natural con coco.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "c6de7a0f-a806-4a70-b398-7c0c005ce5e5",
+    "slug": "menestra",
+    "nombre": "Menestra",
+    "precio": "6.50",
+    "precio_promo": "",
+    "categorias": [
+      "almuerzos"
+    ],
+    "descripcion": "Menestra con proteína a elección.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [
+      {
+        "name": "Proteína",
+        "options": [
+          {
+            "label": "Pollo ($6.50)",
+            "price": 6.5
+          },
+          {
+            "label": "Carne ($6.50)",
+            "price": 6.5
+          },
+          {
+            "label": "Pescado ($6.50)",
+            "price": 6.5
+          },
+          {
+            "label": "Chuleta ($6.50)",
+            "price": 6.5
+          },
+          {
+            "label": "Camarón apanado ($9.00)",
+            "price": 9
+          }
+        ]
+      }
+    ],
+    "sku": ""
+  },
+  {
+    "id": "32aab953-5cf7-4f3f-92dc-0568b7da1b0d",
+    "slug": "menu-infantil",
+    "nombre": "Menú infantil",
+    "precio": "5.00",
+    "precio_promo": "",
+    "categorias": [
+      "desayunos"
+    ],
+    "descripcion": "Nuggets de pollo, papas fritas y jugo.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "444c7f79-beb5-4782-bffd-7618ae814426",
+    "slug": "pargo",
+    "nombre": "Pargo",
+    "precio": "11.00",
+    "precio_promo": "",
+    "categorias": [
+      "pescados-mariscos"
+    ],
+    "descripcion": "Pargo preparado a tu gusto.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [
+      {
+        "name": "Preparación",
+        "options": [
+          {
+            "label": "Frito ($11.00)",
+            "price": 11
+          },
+          {
+            "label": "Sudado ($15.00)",
+            "price": 15
+          },
+          {
+            "label": "En salsa de mariscos ($14.00)",
+            "price": 14
+          },
+          {
+            "label": "Al ajillo ($12.00)",
+            "price": 12
+          },
+          {
+            "label": "Encocado ($12.00)",
+            "price": 12
+          }
+        ]
+      }
+    ],
+    "sku": ""
+  },
+  {
+    "id": "2d49dc2a-ec22-4565-8bfc-604effa5411b",
+    "slug": "parrillada-mar-y-tierra",
+    "nombre": "Parrillada mar y tierra",
+    "precio": "22.00",
+    "precio_promo": "",
+    "categorias": [
+      "arroces-especiales"
+    ],
+    "descripcion": "Parrillada combinada de mar y tierra.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "5a8b735d-7ca8-4de2-a5b6-158ccd75a24a",
+    "slug": "pescado",
+    "nombre": "Pescado",
+    "precio": "8.00",
+    "precio_promo": "",
+    "categorias": [
+      "almuerzos"
+    ],
+    "descripcion": "Pescado preparado a tu gusto.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [
+      {
+        "name": "Preparación",
+        "options": [
+          {
+            "label": "A la plancha ($8.00)",
+            "price": 8
+          },
+          {
+            "label": "Al ajillo ($8.50)",
+            "price": 8.5
+          },
+          {
+            "label": "Encocado ($8.50)",
+            "price": 8.5
+          },
+          {
+            "label": "Sudado ($8.00)",
+            "price": 8
+          }
+        ]
+      }
+    ],
+    "sku": ""
+  },
+  {
+    "id": "1b3a8e9b-7890-4557-8bbc-de6e75598beb",
+    "slug": "picada-de-mariscos",
+    "nombre": "Picada de mariscos",
+    "precio": "19.00",
+    "precio_promo": "",
+    "categorias": [
+      "arroces-especiales"
+    ],
+    "descripcion": "Picada variada de mariscos.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "c574455d-5caa-4ae5-b2ae-085e0d690ef5",
+    "slug": "pilsener",
+    "nombre": "Pilsener",
+    "precio": "2.75",
+    "precio_promo": "",
+    "categorias": [
+      "bebidas"
+    ],
+    "descripcion": "Cerveza Pilsener.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "992fa14e-33ff-4c45-aa92-ed281168ddbd",
+    "slug": "seco",
+    "nombre": "Seco",
+    "precio": "4.00",
+    "precio_promo": "",
+    "categorias": [
+      "almuerzos"
+    ],
+    "descripcion": "Seco tradicional a elección.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [
+      {
+        "name": "Tipo",
+        "options": [
+          {
+            "label": "Carne ($4.00)",
+            "price": 4
+          },
+          {
+            "label": "Pollo ($4.00)",
+            "price": 4
+          },
+          {
+            "label": "Chancho ($4.00)",
+            "price": 4
+          },
+          {
+            "label": "Costilla ($4.00)",
+            "price": 4
+          }
+        ]
+      }
+    ],
+    "sku": ""
+  },
+  {
+    "id": "5eed77b7-a093-4509-8e5b-ad93cfa69484",
+    "slug": "sopa-marinera",
+    "nombre": "Sopa marinera",
+    "precio": "13.00",
+    "precio_promo": "",
+    "categorias": [
+      "arroces-especiales"
+    ],
+    "descripcion": "Sopa marinera de la casa.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "5312871c-b264-4d11-810d-d7b26e66593f",
+    "slug": "te-caliente",
+    "nombre": "Té caliente",
+    "precio": "3.00",
+    "precio_promo": "",
+    "categorias": [
+      "bebidas"
+    ],
+    "descripcion": "Té caliente.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "f55e0c39-e72b-4c89-bd8d-4c5ab11ae361",
+    "slug": "te-de-la-casa",
+    "nombre": "Té de la casa",
+    "precio": "3.00",
+    "precio_promo": "",
+    "categorias": [
+      "bebidas"
+    ],
+    "descripcion": "Té especial de la casa.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "6bdf8063-1adb-4eb7-b6d4-abfa657a373d",
+    "slug": "tigrillo",
+    "nombre": "Tigrillo",
+    "precio": "2.50",
+    "precio_promo": "",
+    "categorias": [
+      "delicias-verde"
+    ],
+    "descripcion": "Tradicional tigrillo de verde.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [
+      {
+        "name": "Relleno",
+        "options": [
+          {
+            "label": "Queso ($2.50)",
+            "price": 2.5
+          },
+          {
+            "label": "Chicharrón ($2.75)",
+            "price": 2.75
+          },
+          {
+            "label": "Mixto ($2.95)",
+            "price": 2.95
+          }
+        ]
+      }
+    ],
+    "sku": ""
+  },
+  {
+    "id": "ffc88d8a-eacc-4faa-a65e-61bd638b4298",
+    "slug": "tigrillo-combo",
+    "nombre": "Tigrillo combo",
+    "precio": "3.20",
+    "precio_promo": "",
+    "categorias": [
+      "delicias-verde"
+    ],
+    "descripcion": "Incluye huevo y bebida caliente a escoger.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [
+      {
+        "name": "Relleno",
+        "options": [
+          {
+            "label": "Queso ($3.20)",
+            "price": 3.2
+          },
+          {
+            "label": "Chicharrón ($3.50)",
+            "price": 3.5
+          },
+          {
+            "label": "Mixto ($3.95)",
+            "price": 3.95
+          }
+        ]
+      }
+    ],
+    "sku": ""
+  },
+  {
+    "id": "5581f016-f79d-4780-8234-3704cc84cb07",
+    "slug": "tigrillo-combo-1",
+    "nombre": "Tigrillo combo 1",
+    "precio": "4.20",
+    "precio_promo": "",
+    "categorias": [
+      "delicias-verde"
+    ],
+    "descripcion": "Con seco de carne, pollo, chancho o costilla. Incluye huevo y bebida caliente a escoger.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [
+      {
+        "name": "Relleno",
+        "options": [
+          {
+            "label": "Queso ($4.20)",
+            "price": 4.2
+          },
+          {
+            "label": "Chicharrón ($4.50)",
+            "price": 4.5
+          },
+          {
+            "label": "Mixto ($4.95)",
+            "price": 4.95
+          }
+        ]
+      },
+      {
+        "name": "Seco",
+        "options": [
+          "Carne",
+          "Pollo",
+          "Chancho",
+          "Costilla"
+        ],
+        "type": "option"
+      }
+    ],
+    "sku": ""
+  },
+  {
+    "id": "483e4669-7145-4364-8f35-cbc23706fd15",
+    "slug": "tigrillo-combo-2",
+    "nombre": "Tigrillo combo 2",
+    "precio": "5.20",
+    "precio_promo": "",
+    "categorias": [
+      "delicias-verde"
+    ],
+    "descripcion": "Con bistec de hígado o sudado de pescado. Incluye huevo y bebida caliente a escoger.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [
+      {
+        "name": "Relleno",
+        "options": [
+          {
+            "label": "Queso ($5.20)",
+            "price": 5.2
+          },
+          {
+            "label": "Chicharrón ($5.50)",
+            "price": 5.5
+          },
+          {
+            "label": "Mixto ($5.95)",
+            "price": 5.95
+          }
+        ]
+      },
+      {
+        "name": "Acompañamiento",
+        "options": [
+          "Bistec de hígado",
+          "Sudado de pescado"
+        ],
+        "type": "option"
+      }
+    ],
+    "sku": ""
+  },
+  {
+    "id": "eb4681b4-6c9f-4b08-852a-2f8fa5dd3159",
+    "slug": "tigrillo-combo-3",
+    "nombre": "Tigrillo combo 3",
+    "precio": "6.40",
+    "precio_promo": "",
+    "categorias": [
+      "delicias-verde"
+    ],
+    "descripcion": "Con encocado de camarón o pescado. Incluye huevo y bebida caliente a escoger.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [
+      {
+        "name": "Relleno",
+        "options": [
+          {
+            "label": "Queso ($6.40)",
+            "price": 6.4
+          },
+          {
+            "label": "Chicharrón ($6.90)",
+            "price": 6.9
+          },
+          {
+            "label": "Mixto ($7.20)",
+            "price": 7.2
+          }
+        ]
+      },
+      {
+        "name": "Encocado",
+        "options": [
+          "Camarón",
+          "Pescado"
+        ],
+        "type": "option"
+      }
+    ],
+    "sku": ""
+  },
+  {
+    "id": "c438815d-c943-4b6f-8cdf-ff6e5ccfcce0",
+    "slug": "tigrillo-marinero",
+    "nombre": "Tigrillo marinero",
+    "precio": "9.25",
+    "precio_promo": "",
+    "categorias": [
+      "delicias-verde"
+    ],
+    "descripcion": "Tigrillo con preparación marinera.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [
+      {
+        "name": "Relleno",
+        "options": [
+          {
+            "label": "Queso ($9.25)",
+            "price": 9.25
+          },
+          {
+            "label": "Chicharrón ($9.75)",
+            "price": 9.75
+          },
+          {
+            "label": "Mixto ($10.50)",
+            "price": 10.5
+          }
+        ]
+      }
+    ],
+    "sku": ""
+  },
+  {
+    "id": "13d7cc8e-6e3c-4507-874b-21fa28ba54a2",
+    "slug": "tonga",
+    "nombre": "Tonga",
+    "precio": "6.50",
+    "precio_promo": "",
+    "categorias": [
+      "arroces-especiales"
+    ],
+    "descripcion": "Tonga tradicional.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "d060adbc-3838-4f3e-af98-3dc5dad73ff0",
+    "slug": "trucha",
+    "nombre": "Trucha",
+    "precio": "9.00",
+    "precio_promo": "",
+    "categorias": [
+      "pescados-mariscos"
+    ],
+    "descripcion": "Trucha preparada a tu gusto.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [
+      {
+        "name": "Preparación",
+        "options": [
+          {
+            "label": "Frita ($9.00)",
+            "price": 9
+          },
+          {
+            "label": "Al ajillo ($9.00)",
+            "price": 9
+          },
+          {
+            "label": "En salsa de mariscos ($13.00)",
+            "price": 13
+          }
+        ]
+      }
+    ],
+    "sku": ""
+  }
+]
