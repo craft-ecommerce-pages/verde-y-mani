@@ -1,0 +1,23 @@
+{
+  "badge_category": "delicias-verde",
+  "categories": {
+    "almuerzos": "🍽️ Almuerzos",
+    "arroces-especiales": "🍚 Arroces y Especiales",
+    "bebidas": "🥤 Bebidas",
+    "delicias-verde": "🍌 Delicias de Verde",
+    "desayunos": "🍳 Desayunos",
+    "empanadas-yuca": "🥟 Empanadas y Yuca",
+    "encebollados-ceviches": "🍋 Encebollados y Ceviches",
+    "pescados-mariscos": "🐟 Pescados y Mariscos"
+  },
+  "currency": "$",
+  "hero_title": "Sabor costeño que se disfruta \u003cspan class=\"hl\"\u003ede verdad\u003c/span\u003e",
+  "location_intro": "Desayunos, delicias de verde y auténtico sabor de la costa ecuatoriana.",
+  "logo": "logo.png",
+  "site_title": "Verde y Maní – Delicias de la costa y del verde",
+  "store_name": "Verde y Maní",
+  "theme_accent": "#E58A24",
+  "theme_primary": "#39752B",
+  "whatsapp_message": "¡Hola, Verde y Maní! Quiero hacer un pedido:",
+  "whatsapp_number": "593994745718"
+}
