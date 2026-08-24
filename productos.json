@@ -10,7 +10,9 @@
     ],
     "descripcion": "Agua sin gas.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/agua/images/agua-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
