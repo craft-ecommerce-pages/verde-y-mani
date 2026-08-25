@@ -367,7 +367,9 @@
     ],
     "descripcion": "Tradicional bolón preparado con verde.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/bolon-de-verde/images/bolon-de-verde-1.webp"
+    ],
     "variantes": [
       {
         "name": "Relleno",
@@ -674,7 +676,9 @@
     ],
     "descripcion": "Seco a elección, 2 sanduches, 2 huevos al gusto, café y jugo.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/desayuno-completo/images/desayuno-completo-1.webp"
+    ],
     "variantes": [
       {
         "name": "Seco",
@@ -700,7 +704,9 @@
     ],
     "descripcion": "2 sanduches, 2 huevos al gusto, fruta, café y jugo.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/desayuno-continental/images/desayuno-continental-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -715,7 +721,9 @@
     ],
     "descripcion": "Tortilla de camarón, patacones, café y jugo.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/desayuno-costeno/images/desayuno-costeno-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -730,7 +738,9 @@
     ],
     "descripcion": "Patacones en salsa cremosa a base de camarones, pollo y champiñones.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/desayuno-especial/images/desayuno-especial-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -745,7 +755,9 @@
     ],
     "descripcion": "2 tortillas de yuca, 2 huevos tiernos, bistec de hígado, café y jugo.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/desayuno-montubio/images/desayuno-montubio-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
