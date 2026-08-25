@@ -505,8 +505,15 @@
     .branch-map-card{overflow:hidden;background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);box-shadow:0 12px 30px rgba(57,117,43,.10)}
     .branch-map-card h3{padding:16px 18px 13px;font-family:'Bree Serif',Georgia,serif;font-size:21px;font-weight:400;color:var(--primary)}
     .branch-map-card iframe{display:block;width:100%;height:360px;border:0}
+    .sedes-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px}
+    .sede-card{min-width:0;padding:16px 18px;background:var(--surface);border:1px solid var(--border);border-radius:var(--radius-sm);box-shadow:0 8px 22px rgba(57,117,43,.07)}
+    .sede-card.full{grid-column:1/-1}
+    .sede-name{margin-bottom:9px;font-family:'Bree Serif',Georgia,serif;font-size:18px;color:var(--primary)}
+    .sede-row{display:flex;align-items:center;gap:8px;margin-top:6px;color:var(--text-soft);font-size:13px;line-height:1.4}
+    .sede-row svg{display:block;width:18px;height:18px;min-width:18px;max-width:18px;max-height:18px;flex:0 0 18px;color:var(--accent)}
+    .sede-row a{color:var(--primary);font-weight:700;text-decoration:none}
     @media(max-width:700px){
-      .branch-map-grid{grid-template-columns:1fr}
+      .branch-map-grid,.sedes-grid{grid-template-columns:1fr}
       .branch-map-card iframe{height:300px}
     }
   </style>
