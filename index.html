@@ -445,8 +445,8 @@
     :root{
       --primary:#39752B;
       --accent:#E58A24;
-      --bg:#F4F1DF;
-      --bg-2:#E8EFCF;
+      --bg:#4A7A3A;
+      --bg-2:#3C6630;
       --surface:#FFFDF3;
       --surface-2:#EEF3D7;
       --border:rgba(57,117,43,.16);
@@ -454,17 +454,32 @@
       --text:#24361D;
       --text-soft:#5D6D51;
       --text-dim:#8B947C;
+      --on-bg:#FBF7E4;         /* texto crema sobre el fondo verde */
+      --on-bg-soft:#CFE0B8;
       --radius:20px;
       --radius-sm:14px;
     }
     body{
       font-family:'Nunito',system-ui,sans-serif;color:var(--text);
       background:
-        linear-gradient(115deg,transparent 0 92%,rgba(57,117,43,.045) 92% 100%),
-        radial-gradient(900px 500px at 88% -8%,rgba(229,138,36,.18),transparent 60%),
-        radial-gradient(720px 460px at 3% 6%,rgba(107,157,40,.18),transparent 56%),
-        linear-gradient(180deg,var(--bg-2),var(--bg) 42%);
+        radial-gradient(900px 520px at 88% -6%,rgba(229,138,36,.28),transparent 60%),
+        radial-gradient(760px 480px at 4% 4%,rgba(120,175,55,.32),transparent 58%),
+        linear-gradient(180deg,var(--bg) 0%,var(--bg-2) 60%,#33581F 100%);
     }
+    /* Textos que van directo sobre el verde (fuera de tarjetas) → crema */
+    .hero h1{color:var(--on-bg)}
+    .hero h1 .hl{background:linear-gradient(120deg,#FFD37A,var(--accent));-webkit-background-clip:text;background-clip:text;color:transparent}
+    .brand-name{color:var(--on-bg)}
+    .brand-sub{color:#F2C98A}
+    .cat-chip .lb{color:var(--on-bg-soft)}
+    .cat-chip.active .lb{color:var(--on-bg)}
+    .cat-header{color:var(--on-bg)}
+    footer{color:var(--on-bg-soft)}
+    footer a{color:#FFD37A}
+    .location-heading h2{color:var(--on-bg)}
+    .location-heading p{color:var(--on-bg-soft)}
+    .cart-item--envase{background:var(--surface-2);border-style:dashed;opacity:.92}
+    .cart-item--envase .ph{background:rgba(57,117,43,.12);font-size:22px}
     .brand-name,.hero h1,.cat-header,.card-name,.card-price,.modal-name,.section-title{
       font-family:'Bree Serif',Georgia,serif;font-weight:400;letter-spacing:.005em;
     }

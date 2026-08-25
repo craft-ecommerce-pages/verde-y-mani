@@ -10,6 +10,20 @@
     "encebollados-ceviches": "🍋 Encebollados y Ceviches",
     "pescados-mariscos": "🐟 Pescados y Mariscos"
   },
+  "category_order": [
+    "desayunos",
+    "delicias-verde",
+    "empanadas-yuca",
+    "almuerzos",
+    "encebollados-ceviches",
+    "pescados-mariscos",
+    "arroces-especiales",
+    "bebidas"
+  ],
+  "envase": {
+    "price": 0.25,
+    "label": "Envase / tarrina"
+  },
   "currency": "$",
   "hero_title": "Sabor costeño que se disfruta \u003cspan class=\"hl\"\u003ede verdad\u003c/span\u003e",
   "location": {
