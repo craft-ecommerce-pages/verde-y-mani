@@ -139,7 +139,9 @@
     ],
     "descripcion": "Batido de fruta natural.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/batido/images/batido-1.webp"
+    ],
     "variantes": [
       {
         "name": "Sabor",
