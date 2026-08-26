@@ -890,7 +890,9 @@
     ],
     "descripcion": "Gaseosa tamaño mediano.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/gaseosa-mediana/images/gaseosa-mediana-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
