@@ -987,7 +987,9 @@
     ],
     "descripcion": "Jugo de fruta natural.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/jugo-natural/images/jugo-natural-1.webp"
+    ],
     "variantes": [
       {
         "name": "Sabor",
