@@ -449,7 +449,9 @@
     ],
     "descripcion": "Café caliente.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/cafe/images/cafe-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
