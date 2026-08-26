@@ -941,7 +941,9 @@
     ],
     "descripcion": "Jarra de jugo de fruta natural.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/jarra-de-jugo/images/jarra-de-jugo-1.webp"
+    ],
     "variantes": [
       {
         "name": "Sabor",
