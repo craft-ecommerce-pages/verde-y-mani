@@ -2,12 +2,13 @@
   "badge_category": "delicias-verde",
   "categories": {
     "almuerzos": "🍽️ Almuerzos",
-    "arroces-especiales": "🍚 Arroces y Especiales",
+    "arroces": "🍚 Arroces",
     "bebidas": "🥤 Bebidas",
     "delicias-verde": "🍌 Delicias de Verde",
     "desayunos": "🍳 Desayunos",
     "empanadas-yuca": "🥟 Empanadas y Yuca",
     "encebollados-ceviches": "🍋 Encebollados y Ceviches",
+    "especiales": "🦀 Especiales",
     "pescados-mariscos": "🐟 Pescados y Mariscos"
   },
   "category_order": [

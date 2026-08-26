@@ -40,7 +40,7 @@
     "precio": "8.50",
     "precio_promo": "",
     "categorias": [
-      "arroces-especiales"
+      "arroces"
     ],
     "descripcion": "Arroz preparado con camarón.",
     "stock": null,
@@ -55,7 +55,7 @@
     "precio": "9.00",
     "precio_promo": "",
     "categorias": [
-      "arroces-especiales"
+      "arroces"
     ],
     "descripcion": "Arroz preparado con concha.",
     "stock": null,
@@ -70,7 +70,7 @@
     "precio": "12.00",
     "precio_promo": "",
     "categorias": [
-      "arroces-especiales"
+      "arroces"
     ],
     "descripcion": "Arroz marinero de la casa.",
     "stock": null,
@@ -85,7 +85,7 @@
     "precio": "10.00",
     "precio_promo": "",
     "categorias": [
-      "arroces-especiales"
+      "arroces"
     ],
     "descripcion": "Arroz mixto de mariscos.",
     "stock": null,
@@ -100,7 +100,7 @@
     "precio": "11.00",
     "precio_promo": "",
     "categorias": [
-      "arroces-especiales"
+      "especiales"
     ],
     "descripcion": "Especialidad de la casa.",
     "stock": null,
@@ -115,7 +115,7 @@
     "precio": "12.00",
     "precio_promo": "",
     "categorias": [
-      "arroces-especiales"
+      "especiales"
     ],
     "descripcion": "Especialidad costeña de la casa.",
     "stock": null,
@@ -446,7 +446,7 @@
     "precio": "6.00",
     "precio_promo": "",
     "categorias": [
-      "arroces-especiales"
+      "especiales"
     ],
     "descripcion": "Caldo tradicional de bagre.",
     "stock": null,
@@ -540,7 +540,7 @@
     "precio": "13.50",
     "precio_promo": "",
     "categorias": [
-      "arroces-especiales"
+      "especiales"
     ],
     "descripcion": "Cazuela cremosa de mariscos.",
     "stock": null,
@@ -612,7 +612,7 @@
     "precio": "22.00",
     "precio_promo": "",
     "categorias": [
-      "arroces-especiales"
+      "especiales"
     ],
     "descripcion": "Crujiente chicharrón de pescado.",
     "stock": null,
@@ -642,7 +642,7 @@
     "precio": "11.50",
     "precio_promo": "",
     "categorias": [
-      "arroces-especiales"
+      "especiales"
     ],
     "descripcion": "Conchas asadas.",
     "stock": null,
@@ -657,7 +657,7 @@
     "precio": "13.50",
     "precio_promo": "",
     "categorias": [
-      "arroces-especiales"
+      "especiales"
     ],
     "descripcion": "Conchas asadas cubiertas con queso gratinado.",
     "stock": null,
@@ -1102,7 +1102,7 @@
     "precio": "22.00",
     "precio_promo": "",
     "categorias": [
-      "arroces-especiales"
+      "especiales"
     ],
     "descripcion": "Parrillada combinada de mar y tierra.",
     "stock": null,
@@ -1154,7 +1154,7 @@
     "precio": "19.00",
     "precio_promo": "",
     "categorias": [
-      "arroces-especiales"
+      "especiales"
     ],
     "descripcion": "Picada variada de mariscos.",
     "stock": null,
@@ -1221,7 +1221,7 @@
     "precio": "13.00",
     "precio_promo": "",
     "categorias": [
-      "arroces-especiales"
+      "especiales"
     ],
     "descripcion": "Sopa marinera de la casa.",
     "stock": null,
@@ -1490,7 +1490,7 @@
     "precio": "6.50",
     "precio_promo": "",
     "categorias": [
-      "arroces-especiales"
+      "especiales"
     ],
     "descripcion": "Tonga tradicional.",
     "stock": null,
