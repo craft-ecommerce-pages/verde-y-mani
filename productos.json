@@ -1012,7 +1012,9 @@
     ],
     "descripcion": "Limonada natural.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/limonada/images/limonada-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
