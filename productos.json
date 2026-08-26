@@ -651,7 +651,9 @@
     ],
     "descripcion": "Cerveza Club.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/club/images/club-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
