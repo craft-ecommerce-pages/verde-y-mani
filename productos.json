@@ -1201,7 +1201,9 @@
     ],
     "descripcion": "Cerveza Pilsener.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/pilsener/images/pilsener-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
