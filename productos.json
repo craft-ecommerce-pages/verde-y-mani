@@ -907,7 +907,9 @@
     ],
     "descripcion": "Gaseosa tamaño pequeño.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/gaseosa-pequena/images/gaseosa-pequena-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
