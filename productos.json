@@ -968,7 +968,9 @@
     ],
     "descripcion": "Jarra de limonada natural.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/jarra-de-limonada/images/jarra-de-limonada-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
