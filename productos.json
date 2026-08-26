@@ -8,7 +8,7 @@
     "categorias": [
       "bebidas"
     ],
-    "descripcion": "Agua sin gas.",
+    "descripcion": "Agua sin gas, bien helada para acompañar tu plato.",
     "stock": null,
     "imagenes": [
       "/producto/agua/images/agua-1.webp"
@@ -25,7 +25,7 @@
     "categorias": [
       "bebidas"
     ],
-    "descripcion": "Agua con gas.",
+    "descripcion": "Agua con gas, burbujeante y refrescante.",
     "stock": null,
     "imagenes": [
       "/producto/agua-con-gas/images/agua-con-gas-1.webp"
@@ -42,7 +42,7 @@
     "categorias": [
       "arroces"
     ],
-    "descripcion": "Arroz preparado con camarón.",
+    "descripcion": "Arroz salteado con camarones jugosos, bien graneado y con todo el sabor del mar.",
     "stock": null,
     "imagenes": [
       "/producto/arroz-con-camaron/images/arroz-con-camaron-1.jpg"
@@ -59,7 +59,7 @@
     "categorias": [
       "arroces"
     ],
-    "descripcion": "Arroz preparado con concha.",
+    "descripcion": "Arroz con conchas, jugoso y con el sabor inconfundible del manglar.",
     "stock": null,
     "imagenes": null,
     "variantes": [],
@@ -74,7 +74,7 @@
     "categorias": [
       "arroces"
     ],
-    "descripcion": "Arroz marinero de la casa.",
+    "descripcion": "Arroz marinero de la casa, cargado de mariscos frescos en cada bocado.",
     "stock": null,
     "imagenes": null,
     "variantes": [],
@@ -89,7 +89,7 @@
     "categorias": [
       "arroces"
     ],
-    "descripcion": "Arroz mixto de mariscos.",
+    "descripcion": "Arroz mixto rebosante de mariscos, graneado y lleno de sabor.",
     "stock": null,
     "imagenes": null,
     "variantes": [],
@@ -104,7 +104,7 @@
     "categorias": [
       "especiales"
     ],
-    "descripcion": "Especialidad de la casa.",
+    "descripcion": "Nuestra especialidad de la casa: un generoso festín marinero que conquista a primera probada.",
     "stock": null,
     "imagenes": [
       "/producto/atarraya/images/atarraya-1.jpg",
@@ -122,7 +122,7 @@
     "categorias": [
       "especiales"
     ],
-    "descripcion": "Especialidad costeña de la casa.",
+    "descripcion": "Bandera costeña: lo mejor del mar reunido en un solo plato, para los de buen apetito.",
     "stock": null,
     "imagenes": null,
     "variantes": [],
@@ -137,7 +137,7 @@
     "categorias": [
       "bebidas"
     ],
-    "descripcion": "Batido de fruta natural.",
+    "descripcion": "Cremoso batido de fruta natural, espeso y bien frío. Elige tu sabor: mora, naranjilla, mango, coco o guanábana.",
     "stock": null,
     "imagenes": [
       "/producto/batido/images/batido-1.webp"
@@ -166,7 +166,7 @@
     "categorias": [
       "almuerzos"
     ],
-    "descripcion": "Bistec de hígado.",
+    "descripcion": "Tierno bistec de hígado encebollado en su jugosa salsa criolla, servido con arroz.",
     "stock": null,
     "imagenes": null,
     "variantes": [],
@@ -181,7 +181,7 @@
     "categorias": [
       "delicias-verde"
     ],
-    "descripcion": "Incluye huevo y bebida caliente a escoger.",
+    "descripcion": "Bolón de verde crocante con el relleno que prefieras. Incluye huevo al gusto y bebida caliente a escoger.",
     "stock": null,
     "imagenes": null,
     "variantes": [
@@ -214,7 +214,7 @@
     "categorias": [
       "delicias-verde"
     ],
-    "descripcion": "Con seco de carne, pollo, chancho o costilla. Incluye huevo y bebida caliente a escoger.",
+    "descripcion": "Bolón de verde relleno con un seco a elección —carne, pollo, chancho o costilla— en su jugosa salsa criolla. Incluye huevo y bebida caliente a escoger.",
     "stock": null,
     "imagenes": [
       "/producto/bolon-combo-1/images/bolon-combo-1-1.jpg",
@@ -260,7 +260,7 @@
     "categorias": [
       "delicias-verde"
     ],
-    "descripcion": "Con bistec de hígado o sudado de pescado. Incluye huevo y bebida caliente a escoger.",
+    "descripcion": "Bolón de verde relleno con bistec de hígado encebollado o sudado de pescado. Incluye huevo y bebida caliente a escoger.",
     "stock": null,
     "imagenes": [
       "/producto/bolon-combo-2/images/bolon-combo-2-1.jpg",
@@ -304,7 +304,7 @@
     "categorias": [
       "delicias-verde"
     ],
-    "descripcion": "Con encocado de camarón o pescado. Incluye huevo y bebida caliente a escoger.",
+    "descripcion": "Bolón de verde relleno bañado en un cremoso encocado de camarón o pescado, con aroma a coco. Incluye huevo y bebida caliente a escoger.",
     "stock": null,
     "imagenes": [
       "/producto/bolon-combo-3/images/bolon-combo-3-1.jpg",
@@ -348,7 +348,7 @@
     "categorias": [
       "delicias-verde"
     ],
-    "descripcion": "Bolón preparado con maduro.",
+    "descripcion": "Bolón de maduro con el dulce del plátano en su punto y relleno de queso, chicharrón o mixto.",
     "stock": null,
     "imagenes": null,
     "variantes": [
@@ -381,7 +381,7 @@
     "categorias": [
       "delicias-verde"
     ],
-    "descripcion": "Tradicional bolón preparado con verde.",
+    "descripcion": "Bolón de verde recién amasado, dorado y crocante por fuera, suavecito por dentro. Relleno a elegir: queso, chicharrón o mixto.",
     "stock": null,
     "imagenes": [
       "/producto/bolon-de-verde/images/bolon-de-verde-1.webp"
@@ -416,7 +416,7 @@
     "categorias": [
       "delicias-verde"
     ],
-    "descripcion": "Bolón de verde con preparación marinera.",
+    "descripcion": "Nuestro bolón marinero: verde crocante coronado con un festín de mariscos en salsa costeña.",
     "stock": null,
     "imagenes": null,
     "variantes": [
@@ -449,7 +449,7 @@
     "categorias": [
       "bebidas"
     ],
-    "descripcion": "Café caliente.",
+    "descripcion": "Café caliente recién pasado, aromático hasta el último sorbo.",
     "stock": null,
     "imagenes": [
       "/producto/cafe/images/cafe-1.webp"
@@ -466,7 +466,7 @@
     "categorias": [
       "especiales"
     ],
-    "descripcion": "Caldo tradicional de bagre.",
+    "descripcion": "Caldo de bagre tradicional, sustancioso y humeante, con todo el sabor del río.",
     "stock": null,
     "imagenes": null,
     "variantes": [],
@@ -481,7 +481,7 @@
     "categorias": [
       "pescados-mariscos"
     ],
-    "descripcion": "Camarones preparados a tu gusto.",
+    "descripcion": "Camarones jugosos preparados a tu gusto: al ajillo, apanados, encocados o a la plancha.",
     "stock": null,
     "imagenes": null,
     "variantes": [
@@ -518,7 +518,7 @@
     "categorias": [
       "pescados-mariscos"
     ],
-    "descripcion": "Criollo, al ajillo o encocado. Incluye sopa, arroz, patacones y encurtido.",
+    "descripcion": "Cangrejo bien servido —criollo, al ajillo o encocado— para chuparse los dedos. Incluye sopa, arroz, patacones y encurtido.",
     "stock": null,
     "imagenes": [
       "/producto/cangrejo/images/cangrejo-1.jpg",
@@ -563,7 +563,7 @@
     "categorias": [
       "especiales"
     ],
-    "descripcion": "Cazuela cremosa de mariscos.",
+    "descripcion": "Cazuela cremosa de maní y verde rebosante de mariscos, servida bien caliente y burbujeante.",
     "stock": null,
     "imagenes": null,
     "variantes": [],
@@ -578,7 +578,7 @@
     "categorias": [
       "encebollados-ceviches"
     ],
-    "descripcion": "Incluye porción de arroz o patacones. Hazlo Jipijapa por $1.00 adicional.",
+    "descripcion": "Ceviche fresco en su jugo cítrico, con cebolla curtida y el marisco que elijas. Incluye porción de arroz o patacones. Hazlo Jipijapa por $1.00 adicional.",
     "stock": null,
     "imagenes": [
       "/producto/ceviche/images/ceviche-1.jpg",
@@ -638,7 +638,7 @@
     "categorias": [
       "especiales"
     ],
-    "descripcion": "Crujiente chicharrón de pescado.",
+    "descripcion": "Chicharrón de pescado crocante por fuera y jugoso por dentro, doradito y perfecto para compartir.",
     "stock": null,
     "imagenes": null,
     "variantes": [],
@@ -653,7 +653,7 @@
     "categorias": [
       "bebidas"
     ],
-    "descripcion": "Cerveza Club.",
+    "descripcion": "Cerveza Club bien helada.",
     "stock": null,
     "imagenes": [
       "/producto/club/images/club-1.webp"
@@ -670,7 +670,7 @@
     "categorias": [
       "especiales"
     ],
-    "descripcion": "Conchas asadas.",
+    "descripcion": "Conchas asadas en su concha, jugosas y con ese sabor ahumado inconfundible.",
     "stock": null,
     "imagenes": null,
     "variantes": [],
@@ -685,7 +685,7 @@
     "categorias": [
       "especiales"
     ],
-    "descripcion": "Conchas asadas cubiertas con queso gratinado.",
+    "descripcion": "Conchas asadas cubiertas de queso gratinado, doradas y burbujeantes. Irresistibles.",
     "stock": null,
     "imagenes": null,
     "variantes": [],
@@ -700,7 +700,7 @@
     "categorias": [
       "desayunos"
     ],
-    "descripcion": "Seco a elección, 2 sanduches, 2 huevos al gusto, café y jugo.",
+    "descripcion": "Desayuno de campeones: un seco a elección, 2 sanduches, 2 huevos al gusto, café y jugo natural.",
     "stock": null,
     "imagenes": [
       "/producto/desayuno-completo/images/desayuno-completo-1.webp"
@@ -728,7 +728,7 @@
     "categorias": [
       "desayunos"
     ],
-    "descripcion": "2 sanduches, 2 huevos al gusto, fruta, café y jugo.",
+    "descripcion": "Para empezar con energía: 2 sanduches, 2 huevos al gusto, fruta fresca, café aromático y jugo natural.",
     "stock": null,
     "imagenes": [
       "/producto/desayuno-continental/images/desayuno-continental-1.webp"
@@ -745,7 +745,7 @@
     "categorias": [
       "desayunos"
     ],
-    "descripcion": "Tortilla de camarón, patacones, café y jugo.",
+    "descripcion": "Puro sabor de la costa: tortilla de camarón, patacones crocantes, café y jugo natural.",
     "stock": null,
     "imagenes": [
       "/producto/desayuno-costeno/images/desayuno-costeno-1.webp"
@@ -762,7 +762,7 @@
     "categorias": [
       "desayunos"
     ],
-    "descripcion": "Patacones en salsa cremosa a base de camarones, pollo y champiñones.",
+    "descripcion": "Patacones crocantes bañados en una cremosa salsa de camarones, pollo y champiñones. Un lujo para arrancar el día.",
     "stock": null,
     "imagenes": [
       "/producto/desayuno-especial/images/desayuno-especial-1.webp"
@@ -779,7 +779,7 @@
     "categorias": [
       "desayunos"
     ],
-    "descripcion": "2 tortillas de yuca, 2 huevos tiernos, bistec de hígado, café y jugo.",
+    "descripcion": "Bien montubio: 2 tortillas de yuca, 2 huevos tiernos, bistec de hígado encebollado, café y jugo.",
     "stock": null,
     "imagenes": [
       "/producto/desayuno-montubio/images/desayuno-montubio-1.webp"
@@ -796,7 +796,7 @@
     "categorias": [
       "empanadas-yuca"
     ],
-    "descripcion": "Empanada de verde con el relleno de tu preferencia.",
+    "descripcion": "Empanada de verde crocante y doradita, rellena a tu gusto: queso, pollo o camarón.",
     "stock": null,
     "imagenes": [
       "/producto/empanada-de-verde/images/empanada-de-verde-1.jpg",
@@ -832,7 +832,7 @@
     "categorias": [
       "encebollados-ceviches"
     ],
-    "descripcion": "Encebollado costeño de camarón.",
+    "descripcion": "Encebollado de camarón en caldo bien cargado, con yuca y cebolla curtida. Puro sabor costeño.",
     "stock": null,
     "imagenes": null,
     "variantes": [],
@@ -847,7 +847,7 @@
     "categorias": [
       "encebollados-ceviches"
     ],
-    "descripcion": "Encebollado costeño de pescado.",
+    "descripcion": "El rey de la costa: encebollado de pescado en su caldo especiado, con yuca, cebolla curtida y su chorrito de limón.",
     "stock": null,
     "imagenes": null,
     "variantes": [],
@@ -862,7 +862,7 @@
     "categorias": [
       "encebollados-ceviches"
     ],
-    "descripcion": "Encebollado marinero.",
+    "descripcion": "Encebollado marinero rebosante de mariscos, en un caldo intenso con yuca y curtido.",
     "stock": null,
     "imagenes": null,
     "variantes": [],
@@ -877,7 +877,7 @@
     "categorias": [
       "encebollados-ceviches"
     ],
-    "descripcion": "Encebollado mixto.",
+    "descripcion": "Encebollado mixto de pescado y camarón en su caldo humeante, con yuca y curtido.",
     "stock": null,
     "imagenes": null,
     "variantes": [],
@@ -892,7 +892,7 @@
     "categorias": [
       "bebidas"
     ],
-    "descripcion": "Gaseosa tamaño mediano.",
+    "descripcion": "Gaseosa bien fría, tamaño mediano.",
     "stock": null,
     "imagenes": [
       "/producto/gaseosa-mediana/images/gaseosa-mediana-1.webp"
@@ -909,7 +909,7 @@
     "categorias": [
       "bebidas"
     ],
-    "descripcion": "Gaseosa tamaño pequeño.",
+    "descripcion": "Gaseosa bien fría, tamaño pequeño.",
     "stock": null,
     "imagenes": [
       "/producto/gaseosa-pequena/images/gaseosa-pequena-1.webp"
@@ -926,7 +926,7 @@
     "categorias": [
       "almuerzos"
     ],
-    "descripcion": "Guatita tradicional.",
+    "descripcion": "Guatita tradicional en su espesa salsa de maní, un clásico que reconforta. Servida con arroz.",
     "stock": null,
     "imagenes": null,
     "variantes": [],
@@ -941,7 +941,7 @@
     "categorias": [
       "bebidas"
     ],
-    "descripcion": "Jarra de jugo de fruta natural.",
+    "descripcion": "Jarra de jugo natural para compartir en la mesa. Mora, naranjilla, mango, coco o guanábana.",
     "stock": null,
     "imagenes": [
       "/producto/jarra-de-jugo/images/jarra-de-jugo-1.webp"
@@ -970,7 +970,7 @@
     "categorias": [
       "bebidas"
     ],
-    "descripcion": "Jarra de limonada natural.",
+    "descripcion": "Jarra de limonada natural, para refrescar a toda la mesa.",
     "stock": null,
     "imagenes": [
       "/producto/jarra-de-limonada/images/jarra-de-limonada-1.webp"
@@ -987,7 +987,7 @@
     "categorias": [
       "bebidas"
     ],
-    "descripcion": "Jugo de fruta natural.",
+    "descripcion": "Jugo de fruta 100% natural, recién exprimido y refrescante. Mora, naranjilla, mango, coco o guanábana.",
     "stock": null,
     "imagenes": [
       "/producto/jugo-natural/images/jugo-natural-1.webp"
@@ -1016,7 +1016,7 @@
     "categorias": [
       "bebidas"
     ],
-    "descripcion": "Limonada natural.",
+    "descripcion": "Limonada natural, fresca y bien fría para calmar la sed.",
     "stock": null,
     "imagenes": [
       "/producto/limonada/images/limonada-1.webp"
@@ -1033,7 +1033,7 @@
     "categorias": [
       "bebidas"
     ],
-    "descripcion": "Limonada natural con coco.",
+    "descripcion": "Limonada natural batida con coco: cremosa, tropical y muy refrescante.",
     "stock": null,
     "imagenes": null,
     "variantes": [],
@@ -1048,7 +1048,7 @@
     "categorias": [
       "almuerzos"
     ],
-    "descripcion": "Menestra con proteína a elección.",
+    "descripcion": "Menestra criolla bien preparada con la proteína que elijas —pollo, carne, pescado, chuleta o camarón apanado— con su arroz.",
     "stock": null,
     "imagenes": [
       "/producto/menestra/images/menestra-1.jpg"
@@ -1091,7 +1091,7 @@
     "categorias": [
       "desayunos"
     ],
-    "descripcion": "Nuggets de pollo, papas fritas y jugo.",
+    "descripcion": "Para los peques: nuggets de pollo doraditos, papas fritas crocantes y jugo natural.",
     "stock": null,
     "imagenes": null,
     "variantes": [],
@@ -1106,7 +1106,7 @@
     "categorias": [
       "pescados-mariscos"
     ],
-    "descripcion": "Pargo preparado a tu gusto.",
+    "descripcion": "Pargo fresco preparado como prefieras: frito y crocante, sudado, en salsa de mariscos, al ajillo o encocado.",
     "stock": null,
     "imagenes": [
       "/producto/pargo/images/pargo-1.jpg",
@@ -1150,7 +1150,7 @@
     "categorias": [
       "especiales"
     ],
-    "descripcion": "Parrillada combinada de mar y tierra.",
+    "descripcion": "Parrillada mar y tierra: lo mejor de la carne y el marisco a la parrilla en un solo festín para compartir.",
     "stock": null,
     "imagenes": null,
     "variantes": [],
@@ -1165,7 +1165,7 @@
     "categorias": [
       "almuerzos"
     ],
-    "descripcion": "Pescado preparado a tu gusto.",
+    "descripcion": "Pescado fresco preparado como más te gusta: a la plancha, al ajillo, encocado o sudado, siempre jugoso.",
     "stock": null,
     "imagenes": null,
     "variantes": [
@@ -1202,7 +1202,7 @@
     "categorias": [
       "especiales"
     ],
-    "descripcion": "Picada variada de mariscos.",
+    "descripcion": "Picada de mariscos para compartir: una tabla variada del mar, ideal para picar entre todos.",
     "stock": null,
     "imagenes": null,
     "variantes": [],
@@ -1217,7 +1217,7 @@
     "categorias": [
       "bebidas"
     ],
-    "descripcion": "Cerveza Pilsener.",
+    "descripcion": "Cerveza Pilsener bien helada, la compañera perfecta del marisco.",
     "stock": null,
     "imagenes": [
       "/producto/pilsener/images/pilsener-1.webp"
@@ -1234,7 +1234,7 @@
     "categorias": [
       "almuerzos"
     ],
-    "descripcion": "Seco tradicional a elección.",
+    "descripcion": "Seco criollo cocido a fuego lento en su salsa, a elección: carne, pollo, chancho o costilla. Con arroz.",
     "stock": null,
     "imagenes": null,
     "variantes": [
@@ -1271,7 +1271,7 @@
     "categorias": [
       "especiales"
     ],
-    "descripcion": "Sopa marinera de la casa.",
+    "descripcion": "Sopa marinera de la casa: un caldo intenso y humeante colmado de mariscos frescos.",
     "stock": null,
     "imagenes": null,
     "variantes": [],
@@ -1286,7 +1286,7 @@
     "categorias": [
       "bebidas"
     ],
-    "descripcion": "Té caliente.",
+    "descripcion": "Té caliente y reconfortante, perfecto para acompañar el desayuno.",
     "stock": null,
     "imagenes": null,
     "variantes": [],
@@ -1301,7 +1301,7 @@
     "categorias": [
       "bebidas"
     ],
-    "descripcion": "Té especial de la casa.",
+    "descripcion": "Nuestro té especial de la casa, aromático y bien caliente.",
     "stock": null,
     "imagenes": null,
     "variantes": [],
@@ -1316,7 +1316,7 @@
     "categorias": [
       "delicias-verde"
     ],
-    "descripcion": "Tradicional tigrillo de verde.",
+    "descripcion": "Tradicional tigrillo de verde majado con queso, chicharrón o mixto: cremoso, humeante y bien servido.",
     "stock": null,
     "imagenes": null,
     "variantes": [
@@ -1349,7 +1349,7 @@
     "categorias": [
       "delicias-verde"
     ],
-    "descripcion": "Incluye huevo y bebida caliente a escoger.",
+    "descripcion": "Cremoso tigrillo de verde con tu relleno favorito. Incluye huevo y bebida caliente a escoger.",
     "stock": null,
     "imagenes": null,
     "variantes": [
@@ -1382,7 +1382,7 @@
     "categorias": [
       "delicias-verde"
     ],
-    "descripcion": "Con seco de carne, pollo, chancho o costilla. Incluye huevo y bebida caliente a escoger.",
+    "descripcion": "Tigrillo de verde acompañado de un seco a elección —carne, pollo, chancho o costilla. Incluye huevo y bebida caliente a escoger.",
     "stock": null,
     "imagenes": [
       "/producto/tigrillo-combo-1/images/tigrillo-combo-1-1.jpg",
@@ -1428,7 +1428,7 @@
     "categorias": [
       "delicias-verde"
     ],
-    "descripcion": "Con bistec de hígado o sudado de pescado. Incluye huevo y bebida caliente a escoger.",
+    "descripcion": "Tigrillo de verde con bistec de hígado encebollado o sudado de pescado. Incluye huevo y bebida caliente a escoger.",
     "stock": null,
     "imagenes": null,
     "variantes": [
@@ -1469,7 +1469,7 @@
     "categorias": [
       "delicias-verde"
     ],
-    "descripcion": "Con encocado de camarón o pescado. Incluye huevo y bebida caliente a escoger.",
+    "descripcion": "Tigrillo de verde bañado en cremoso encocado de camarón o pescado. Incluye huevo y bebida caliente a escoger.",
     "stock": null,
     "imagenes": [
       "/producto/tigrillo-combo-3/images/tigrillo-combo-3-1.jpg",
@@ -1513,7 +1513,7 @@
     "categorias": [
       "delicias-verde"
     ],
-    "descripcion": "Tigrillo con preparación marinera.",
+    "descripcion": "Tigrillo marinero: verde majado y cremoso rebosante de mariscos en salsa de la casa.",
     "stock": null,
     "imagenes": null,
     "variantes": [
@@ -1546,7 +1546,7 @@
     "categorias": [
       "especiales"
     ],
-    "descripcion": "Tonga tradicional.",
+    "descripcion": "Tonga tradicional envuelta en hoja de plátano, con arroz, presa y su sabrosa salsa de maní.",
     "stock": null,
     "imagenes": null,
     "variantes": [],
@@ -1561,7 +1561,7 @@
     "categorias": [
       "pescados-mariscos"
     ],
-    "descripcion": "Trucha preparada a tu gusto.",
+    "descripcion": "Trucha fresca a tu elección: frita, al ajillo o en salsa de mariscos. Tierna y llena de sabor.",
     "stock": null,
     "imagenes": [
       "/producto/trucha/images/trucha-1.jpg",
