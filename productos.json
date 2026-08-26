@@ -44,7 +44,9 @@
     ],
     "descripcion": "Arroz preparado con camarón.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/arroz-con-camaron/images/arroz-con-camaron-1.jpg"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -104,7 +106,10 @@
     ],
     "descripcion": "Especialidad de la casa.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/atarraya/images/atarraya-1.jpg",
+      "/producto/atarraya/images/atarraya-2.jpg"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -209,7 +214,10 @@
     ],
     "descripcion": "Con seco de carne, pollo, chancho o costilla. Incluye huevo y bebida caliente a escoger.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/bolon-combo-1/images/bolon-combo-1-1.jpg",
+      "/producto/bolon-combo-1/images/bolon-combo-1-2.jpg"
+    ],
     "variantes": [
       {
         "name": "Relleno",
@@ -252,7 +260,10 @@
     ],
     "descripcion": "Con bistec de hígado o sudado de pescado. Incluye huevo y bebida caliente a escoger.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/bolon-combo-2/images/bolon-combo-2-1.jpg",
+      "/producto/bolon-combo-2/images/bolon-combo-2-2.jpg"
+    ],
     "variantes": [
       {
         "name": "Relleno",
@@ -293,7 +304,10 @@
     ],
     "descripcion": "Con encocado de camarón o pescado. Incluye huevo y bebida caliente a escoger.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/bolon-combo-3/images/bolon-combo-3-1.jpg",
+      "/producto/bolon-combo-3/images/bolon-combo-3-2.jpg"
+    ],
     "variantes": [
       {
         "name": "Relleno",
@@ -502,7 +516,10 @@
     ],
     "descripcion": "Criollo, al ajillo o encocado. Incluye sopa, arroz, patacones y encurtido.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/cangrejo/images/cangrejo-1.jpg",
+      "/producto/cangrejo/images/cangrejo-2.jpg"
+    ],
     "variantes": [
       {
         "name": "Porción",
@@ -559,7 +576,10 @@
     ],
     "descripcion": "Incluye porción de arroz o patacones. Hazlo Jipijapa por $1.00 adicional.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/ceviche/images/ceviche-1.jpg",
+      "/producto/ceviche/images/ceviche-2.jpg"
+    ],
     "variantes": [
       {
         "name": "Tipo",
@@ -772,7 +792,10 @@
     ],
     "descripcion": "Empanada de verde con el relleno de tu preferencia.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/empanada-de-verde/images/empanada-de-verde-1.jpg",
+      "/producto/empanada-de-verde/images/empanada-de-verde-2.jpg"
+    ],
     "variantes": [
       {
         "name": "Relleno",
@@ -1009,7 +1032,9 @@
     ],
     "descripcion": "Menestra con proteína a elección.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/menestra/images/menestra-1.jpg"
+    ],
     "variantes": [
       {
         "name": "Proteína",
@@ -1065,7 +1090,10 @@
     ],
     "descripcion": "Pargo preparado a tu gusto.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/pargo/images/pargo-1.jpg",
+      "/producto/pargo/images/pargo-2.jpg"
+    ],
     "variantes": [
       {
         "name": "Preparación",
@@ -1336,7 +1364,10 @@
     ],
     "descripcion": "Con seco de carne, pollo, chancho o costilla. Incluye huevo y bebida caliente a escoger.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/tigrillo-combo-1/images/tigrillo-combo-1-1.jpg",
+      "/producto/tigrillo-combo-1/images/tigrillo-combo-1-2.jpg"
+    ],
     "variantes": [
       {
         "name": "Relleno",
@@ -1420,7 +1451,10 @@
     ],
     "descripcion": "Con encocado de camarón o pescado. Incluye huevo y bebida caliente a escoger.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/tigrillo-combo-3/images/tigrillo-combo-3-1.jpg",
+      "/producto/tigrillo-combo-3/images/tigrillo-combo-3-2.jpg"
+    ],
     "variantes": [
       {
         "name": "Relleno",
@@ -1509,7 +1543,10 @@
     ],
     "descripcion": "Trucha preparada a tu gusto.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/trucha/images/trucha-1.jpg",
+      "/producto/trucha/images/trucha-2.jpg"
+    ],
     "variantes": [
       {
         "name": "Preparación",
