@@ -957,7 +957,9 @@
     ],
     "descripcion": "Guatita tradicional en su espesa salsa de maní, un clásico que reconforta. Servida con arroz.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/guatita/images/guatita-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
