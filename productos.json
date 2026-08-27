@@ -821,8 +821,7 @@
     "descripcion": "Empanada de verde crocante y doradita, rellena a tu gusto: queso, pollo o camarón.",
     "stock": null,
     "imagenes": [
-      "/producto/empanada-de-verde/images/empanada-de-verde-1.jpg",
-      "/producto/empanada-de-verde/images/empanada-de-verde-2.jpg"
+      "/producto/empanada-de-verde/images/empanada-de-verde-1.webp"
     ],
     "variantes": [
       {
@@ -856,7 +855,9 @@
     ],
     "descripcion": "Encebollado de camarón en caldo bien cargado, con yuca y cebolla curtida. Puro sabor costeño.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/encebollado-de-camaron/images/encebollado-de-camaron-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
