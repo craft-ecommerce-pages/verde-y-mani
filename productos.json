@@ -872,7 +872,9 @@
     ],
     "descripcion": "El rey de la costa: encebollado de pescado en su caldo especiado, con yuca, cebolla curtida y su chorrito de limón.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/encebollado-de-pescado/images/encebollado-de-pescado-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -887,7 +889,9 @@
     ],
     "descripcion": "Encebollado marinero rebosante de mariscos, en un caldo intenso con yuca y curtido.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/encebollado-marinero/images/encebollado-marinero-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -902,7 +906,9 @@
     ],
     "descripcion": "Encebollado mixto de pescado y camarón en su caldo humeante, con yuca y curtido.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/encebollado-mixto/images/encebollado-mixto-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
