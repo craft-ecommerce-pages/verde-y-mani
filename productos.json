@@ -1437,7 +1437,7 @@
     "descripcion": "Tigrillo de verde acompañado de un seco a elección —carne, pollo, chancho o costilla. Incluye huevo y bebida caliente a escoger.",
     "stock": null,
     "imagenes": [
-      "/producto/tigrillo-combo-1/images/tigrillo-combo-1-1.webp"
+      "/producto/tigrillo-combo-1/images/tigrillo-combo-1-1.jpg"
     ],
     "variantes": [
       {
@@ -1525,7 +1525,7 @@
     "descripcion": "Tigrillo de verde bañado en cremoso encocado de camarón o pescado. Incluye huevo y bebida caliente a escoger.",
     "stock": null,
     "imagenes": [
-      "/producto/tigrillo-combo-3/images/tigrillo-combo-3-1.webp"
+      "/producto/tigrillo-combo-3/images/tigrillo-combo-3-1.jpg"
     ],
     "variantes": [
       {
@@ -1620,8 +1620,7 @@
     "descripcion": "Trucha fresca a tu elección: frita, al ajillo o en salsa de mariscos. Tierna y llena de sabor.",
     "stock": null,
     "imagenes": [
-      "/producto/trucha/images/trucha-1.jpg",
-      "/producto/trucha/images/trucha-2.jpg"
+      "/producto/trucha/images/trucha-1.jpg"
     ],
     "variantes": [
       {
