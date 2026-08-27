@@ -171,7 +171,7 @@
     "precio": "4.75",
     "precio_promo": "",
     "categorias": [
-      "almuerzos"
+      "delicias-costa"
     ],
     "descripcion": "Tierno bistec de hígado encebollado en su jugosa salsa criolla, servido con arroz.",
     "stock": null,
@@ -680,6 +680,84 @@
     "sku": ""
   },
   {
+    "id": "992fa14e-33ff-4c45-aa92-ed281168ddbd",
+    "slug": "combo-estofado",
+    "nombre": "Combo estofado",
+    "precio": "3.50",
+    "precio_promo": "",
+    "categorias": [
+      "almuerzos"
+    ],
+    "descripcion": "Seco criollo cocido a fuego lento en su salsa, a elección: carne, pollo, chancho o costilla. Con arroz.",
+    "stock": null,
+    "imagenes": [
+      "/producto/combo-estofado/images/combo-estofado-1.webp"
+    ],
+    "variantes": [
+      {
+        "name": "Tipo",
+        "options": [
+          {
+            "label": "Carne ($3.50)",
+            "price": 3.5
+          },
+          {
+            "label": "Pollo ($3.50)",
+            "price": 3.5
+          },
+          {
+            "label": "Chancho ($3.50)",
+            "price": 3.5
+          },
+          {
+            "label": "Costilla ($3.50)",
+            "price": 3.5
+          }
+        ]
+      }
+    ],
+    "sku": ""
+  },
+  {
+    "id": "c6de7a0f-a806-4a70-b398-7c0c005ce5e5",
+    "slug": "combo-menestra",
+    "nombre": "Combo menestra",
+    "precio": "3.50",
+    "precio_promo": "",
+    "categorias": [
+      "almuerzos"
+    ],
+    "descripcion": "Menestra criolla bien preparada con la proteína que elijas —pollo, carne, pescado, chuleta o camarón apanado— con su arroz.",
+    "stock": null,
+    "imagenes": [
+      "/producto/combo-menestra/images/combo-menestra-1.webp"
+    ],
+    "variantes": [
+      {
+        "name": "Proteína",
+        "options": [
+          {
+            "label": "Pollo ($3.50)",
+            "price": 3.5
+          },
+          {
+            "label": "Carne ($3.50)",
+            "price": 3.5
+          },
+          {
+            "label": "Pescado ($3.50)",
+            "price": 3.5
+          },
+          {
+            "label": "Chuleta ($3.50)",
+            "price": 3.5
+          }
+        ]
+      }
+    ],
+    "sku": ""
+  },
+  {
     "id": "def6594d-ed9b-4516-8563-a569bc0a001c",
     "slug": "conchas-asadas",
     "nombre": "Conchas asadas",
@@ -953,7 +1031,7 @@
     "precio": "4.50",
     "precio_promo": "",
     "categorias": [
-      "almuerzos"
+      "delicias-costa"
     ],
     "descripcion": "Guatita tradicional en su espesa salsa de maní, un clásico que reconforta. Servida con arroz.",
     "stock": null,
@@ -1073,49 +1151,6 @@
     "sku": ""
   },
   {
-    "id": "c6de7a0f-a806-4a70-b398-7c0c005ce5e5",
-    "slug": "menestra",
-    "nombre": "Menestra",
-    "precio": "3.50",
-    "precio_promo": "",
-    "categorias": [
-      "almuerzos"
-    ],
-    "descripcion": "Menestra criolla bien preparada con la proteína que elijas —pollo, carne, pescado, chuleta o camarón apanado— con su arroz.",
-    "stock": null,
-    "imagenes": [
-      "/producto/menestra/images/menestra-1.webp"
-    ],
-    "variantes": [
-      {
-        "name": "Proteína",
-        "options": [
-          {
-            "label": "Pollo ($3.50)",
-            "price": 3.5
-          },
-          {
-            "label": "Carne ($3.50)",
-            "price": 3.5
-          },
-          {
-            "label": "Pescado ($3.50)",
-            "price": 3.5
-          },
-          {
-            "label": "Chuleta ($3.50)",
-            "price": 3.5
-          },
-          {
-            "label": "Camarón apanado ($9.00)",
-            "price": 9
-          }
-        ]
-      }
-    ],
-    "sku": ""
-  },
-  {
     "id": "32aab953-5cf7-4f3f-92dc-0568b7da1b0d",
     "slug": "menu-infantil",
     "nombre": "Menú infantil",
@@ -1199,7 +1234,7 @@
     "precio": "8.00",
     "precio_promo": "",
     "categorias": [
-      "almuerzos"
+      "delicias-costa"
     ],
     "descripcion": "Pescado fresco preparado como más te gusta: a la plancha, al ajillo, encocado o sudado, siempre jugoso.",
     "stock": null,
@@ -1263,45 +1298,6 @@
       "/producto/pilsener/images/pilsener-1.webp"
     ],
     "variantes": [],
-    "sku": ""
-  },
-  {
-    "id": "992fa14e-33ff-4c45-aa92-ed281168ddbd",
-    "slug": "seco",
-    "nombre": "Seco",
-    "precio": "3.50",
-    "precio_promo": "",
-    "categorias": [
-      "almuerzos"
-    ],
-    "descripcion": "Seco criollo cocido a fuego lento en su salsa, a elección: carne, pollo, chancho o costilla. Con arroz.",
-    "stock": null,
-    "imagenes": [
-      "/producto/seco/images/seco-1.webp"
-    ],
-    "variantes": [
-      {
-        "name": "Tipo",
-        "options": [
-          {
-            "label": "Carne ($3.50)",
-            "price": 3.5
-          },
-          {
-            "label": "Pollo ($3.50)",
-            "price": 3.5
-          },
-          {
-            "label": "Chancho ($3.50)",
-            "price": 3.5
-          },
-          {
-            "label": "Costilla ($3.50)",
-            "price": 3.5
-          }
-        ]
-      }
-    ],
     "sku": ""
   },
   {
