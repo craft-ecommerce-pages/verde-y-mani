@@ -61,7 +61,9 @@
     ],
     "descripcion": "Arroz con conchas, jugoso y con el sabor inconfundible del manglar.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/arroz-con-concha/images/arroz-con-concha-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -76,7 +78,9 @@
     ],
     "descripcion": "Arroz marinero de la casa, cargado de mariscos frescos en cada bocado.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/arroz-marinero/images/arroz-marinero-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
