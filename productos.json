@@ -705,7 +705,9 @@
     ],
     "descripcion": "Conchas asadas cubiertas de queso gratinado, doradas y burbujeantes. Irresistibles.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/conchas-asadas-con-queso-gratinado/images/conchas-asadas-con-queso-gratinado-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
