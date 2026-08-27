@@ -428,7 +428,9 @@
     ],
     "descripcion": "Nuestro bolón marinero: verde crocante coronado con un festín de mariscos en salsa costeña.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/bolon-marinero/images/bolon-marinero-1.webp"
+    ],
     "variantes": [
       {
         "name": "Relleno",
@@ -478,7 +480,9 @@
     ],
     "descripcion": "Caldo de bagre tradicional, sustancioso y humeante, con todo el sabor del río.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/caldo-de-bagre/images/caldo-de-bagre-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
