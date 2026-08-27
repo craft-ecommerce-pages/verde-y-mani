@@ -690,7 +690,9 @@
     ],
     "descripcion": "Conchas asadas en su concha, jugosas y con ese sabor ahumado inconfundible.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/conchas-asadas/images/conchas-asadas-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
