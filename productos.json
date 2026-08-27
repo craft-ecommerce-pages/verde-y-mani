@@ -580,7 +580,9 @@
     ],
     "descripcion": "Cazuela cremosa de maní y verde rebosante de mariscos, servida bien caliente y burbujeante.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/cazuela-de-mariscos/images/cazuela-de-mariscos-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -596,8 +598,7 @@
     "descripcion": "Ceviche fresco en su jugo cítrico, con cebolla curtida y el marisco que elijas. Incluye porción de arroz o patacones. Hazlo Jipijapa por $1.00 adicional.",
     "stock": null,
     "imagenes": [
-      "/producto/ceviche/images/ceviche-1.jpg",
-      "/producto/ceviche/images/ceviche-2.jpg"
+      "/producto/ceviche/images/ceviche-1.webp"
     ],
     "variantes": [
       {
@@ -655,7 +656,9 @@
     ],
     "descripcion": "Chicharrón de pescado crocante por fuera y jugoso por dentro, doradito y perfecto para compartir.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/chicharron-de-pescado/images/chicharron-de-pescado-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
