@@ -1084,7 +1084,7 @@
     "descripcion": "Menestra criolla bien preparada con la proteína que elijas —pollo, carne, pescado, chuleta o camarón apanado— con su arroz.",
     "stock": null,
     "imagenes": [
-      "/producto/menestra/images/menestra-1.jpg"
+      "/producto/menestra/images/menestra-1.webp"
     ],
     "variantes": [
       {
@@ -1126,7 +1126,9 @@
     ],
     "descripcion": "Para los peques: nuggets de pollo doraditos, papas fritas crocantes y jugo natural.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/menu-infantil/images/menu-infantil-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -1142,8 +1144,7 @@
     "descripcion": "Pargo fresco preparado como prefieras: frito y crocante, sudado, en salsa de mariscos, al ajillo o encocado.",
     "stock": null,
     "imagenes": [
-      "/producto/pargo/images/pargo-1.jpg",
-      "/producto/pargo/images/pargo-2.jpg"
+      "/producto/pargo/images/pargo-1.webp"
     ],
     "variantes": [
       {
