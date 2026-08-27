@@ -1151,6 +1151,47 @@
     "sku": ""
   },
   {
+    "id": "4eb77c85-a1ea-49fc-890a-16bad7195cd9",
+    "slug": "menestra-completa",
+    "nombre": "Menestra Completa",
+    "precio": "6.50",
+    "precio_promo": "",
+    "categorias": [
+      "delicias-costa"
+    ],
+    "descripcion": "",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [
+      {
+        "name": "Proteína",
+        "options": [
+          {
+            "label": "Con pollo ($6.50)",
+            "price": 6.5
+          },
+          {
+            "label": "Con carne ($6.50)",
+            "price": 6.5
+          },
+          {
+            "label": "Con pescado ($6.50)",
+            "price": 6.5
+          },
+          {
+            "label": "Con chuleta ($6.50)",
+            "price": 6.5
+          },
+          {
+            "label": "Con camarón apanado ($9.00)",
+            "price": 9
+          }
+        ]
+      }
+    ],
+    "sku": ""
+  },
+  {
     "id": "32aab953-5cf7-4f3f-92dc-0568b7da1b0d",
     "slug": "menu-infantil",
     "nombre": "Menú infantil",
@@ -1298,6 +1339,43 @@
       "/producto/pilsener/images/pilsener-1.webp"
     ],
     "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "fd24bf44-52b1-48d4-91d0-99b2857ae99c",
+    "slug": "secos",
+    "nombre": "Secos",
+    "precio": "4.00",
+    "precio_promo": "",
+    "categorias": [
+      "delicias-costa"
+    ],
+    "descripcion": "",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [
+      {
+        "name": "Plato",
+        "options": [
+          {
+            "label": "Seco de carne ($4.00)",
+            "price": 4
+          },
+          {
+            "label": "Seco de pollo ($4.00)",
+            "price": 4
+          },
+          {
+            "label": "Seco de chancho ($4.00)",
+            "price": 4
+          },
+          {
+            "label": "Seco de costilla ($4.00)",
+            "price": 4
+          }
+        ]
+      }
+    ],
     "sku": ""
   },
   {
