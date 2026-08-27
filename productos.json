@@ -175,7 +175,9 @@
     ],
     "descripcion": "Tierno bistec de hígado encebollado en su jugosa salsa criolla, servido con arroz.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/bistec-de-higado/images/bistec-de-higado-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -224,8 +226,7 @@
     "descripcion": "Bolón de verde relleno con un seco a elección —carne, pollo, chancho o costilla— en su jugosa salsa criolla. Incluye huevo y bebida caliente a escoger.",
     "stock": null,
     "imagenes": [
-      "/producto/bolon-combo-1/images/bolon-combo-1-1.jpg",
-      "/producto/bolon-combo-1/images/bolon-combo-1-2.jpg"
+      "/producto/bolon-combo-1/images/bolon-combo-1-1.webp"
     ],
     "variantes": [
       {
