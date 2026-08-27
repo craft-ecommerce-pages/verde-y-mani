@@ -95,7 +95,9 @@
     ],
     "descripcion": "Arroz mixto rebosante de mariscos, graneado y lleno de sabor.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/arroz-mixto/images/arroz-mixto-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
