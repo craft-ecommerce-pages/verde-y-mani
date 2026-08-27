@@ -1366,7 +1366,9 @@
     ],
     "descripcion": "Tradicional tigrillo de verde majado con queso, chicharrón o mixto: cremoso, humeante y bien servido.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/tigrillo/images/tigrillo-1.webp"
+    ],
     "variantes": [
       {
         "name": "Relleno",
@@ -1399,7 +1401,9 @@
     ],
     "descripcion": "Cremoso tigrillo de verde con tu relleno favorito. Incluye huevo y bebida caliente a escoger.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/tigrillo-combo/images/tigrillo-combo-1.webp"
+    ],
     "variantes": [
       {
         "name": "Relleno",
@@ -1563,7 +1567,9 @@
     ],
     "descripcion": "Tigrillo marinero: verde majado y cremoso rebosante de mariscos en salsa de la casa.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/tigrillo-marinero/images/tigrillo-marinero-1.webp"
+    ],
     "variantes": [
       {
         "name": "Relleno",
@@ -1596,7 +1602,9 @@
     ],
     "descripcion": "Tonga tradicional envuelta en hoja de plátano, con arroz, presa y su sabrosa salsa de maní.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/tonga/images/tonga-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
