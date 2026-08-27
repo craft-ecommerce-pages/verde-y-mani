@@ -497,7 +497,9 @@
     ],
     "descripcion": "Camarones jugosos preparados a tu gusto: al ajillo, apanados, encocados o a la plancha.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/camarones/images/camarones-1.webp"
+    ],
     "variantes": [
       {
         "name": "Preparación",
@@ -535,8 +537,7 @@
     "descripcion": "Cangrejo bien servido —criollo, al ajillo o encocado— para chuparse los dedos. Incluye sopa, arroz, patacones y encurtido.",
     "stock": null,
     "imagenes": [
-      "/producto/cangrejo/images/cangrejo-1.jpg",
-      "/producto/cangrejo/images/cangrejo-2.jpg"
+      "/producto/cangrejo/images/cangrejo-1.webp"
     ],
     "variantes": [
       {
