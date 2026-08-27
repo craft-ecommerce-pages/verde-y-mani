@@ -192,7 +192,9 @@
     ],
     "descripcion": "Bolón de verde crocante con el relleno que prefieras. Incluye huevo al gusto y bebida caliente a escoger.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/bolon-combo/images/bolon-combo-1.webp"
+    ],
     "variantes": [
       {
         "name": "Relleno",
@@ -356,7 +358,9 @@
     ],
     "descripcion": "Bolón de maduro con el dulce del plátano en su punto y relleno de queso, chicharrón o mixto.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/bolon-de-maduro/images/bolon-de-maduro-1.webp"
+    ],
     "variantes": [
       {
         "name": "Relleno",
