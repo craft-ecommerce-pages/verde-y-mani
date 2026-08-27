@@ -113,8 +113,7 @@
     "descripcion": "Nuestra especialidad de la casa: un generoso festín marinero que conquista a primera probada.",
     "stock": null,
     "imagenes": [
-      "/producto/atarraya/images/atarraya-1.jpg",
-      "/producto/atarraya/images/atarraya-2.jpg"
+      "/producto/atarraya/images/atarraya-1.webp"
     ],
     "variantes": [],
     "sku": ""
@@ -130,7 +129,9 @@
     ],
     "descripcion": "Bandera costeña: lo mejor del mar reunido en un solo plato, para los de buen apetito.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/bandera/images/bandera-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
