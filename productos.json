@@ -1066,7 +1066,9 @@
     ],
     "descripcion": "Limonada natural batida con coco: cremosa, tropical y muy refrescante.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/limonada-de-coco/images/limonada-de-coco-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
