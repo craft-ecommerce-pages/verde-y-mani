@@ -1354,7 +1354,9 @@
     ],
     "descripcion": "",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/secos/images/secos-1.webp"
+    ],
     "variantes": [
       {
         "name": "Plato",
