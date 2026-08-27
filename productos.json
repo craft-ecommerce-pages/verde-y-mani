@@ -1161,7 +1161,9 @@
     ],
     "descripcion": "",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/menestra-completa/images/menestra-completa-1.webp"
+    ],
     "variantes": [
       {
         "name": "Proteína",
