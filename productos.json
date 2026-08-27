@@ -1186,7 +1186,9 @@
     ],
     "descripcion": "Parrillada mar y tierra: lo mejor de la carne y el marisco a la parrilla en un solo festín para compartir.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/parrillada-mar-y-tierra/images/parrillada-mar-y-tierra-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -1201,7 +1203,9 @@
     ],
     "descripcion": "Pescado fresco preparado como más te gusta: a la plancha, al ajillo, encocado o sudado, siempre jugoso.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/pescado/images/pescado-1.webp"
+    ],
     "variantes": [
       {
         "name": "Preparación",
@@ -1238,7 +1242,9 @@
     ],
     "descripcion": "Picada de mariscos para compartir: una tabla variada del mar, ideal para picar entre todos.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/picada-de-mariscos/images/picada-de-mariscos-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
