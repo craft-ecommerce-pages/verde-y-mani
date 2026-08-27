@@ -188,7 +188,7 @@
     "precio": "3.20",
     "precio_promo": "",
     "categorias": [
-      "delicias-verde"
+      "bolones"
     ],
     "descripcion": "Bolón de verde crocante con el relleno que prefieras. Incluye huevo al gusto y bebida caliente a escoger.",
     "stock": null,
@@ -223,7 +223,7 @@
     "precio": "4.20",
     "precio_promo": "",
     "categorias": [
-      "delicias-verde"
+      "bolones"
     ],
     "descripcion": "Bolón de verde relleno con un seco a elección —carne, pollo, chancho o costilla— en su jugosa salsa criolla. Incluye huevo y bebida caliente a escoger.",
     "stock": null,
@@ -268,7 +268,7 @@
     "precio": "5.20",
     "precio_promo": "",
     "categorias": [
-      "delicias-verde"
+      "bolones"
     ],
     "descripcion": "Bolón de verde relleno con bistec de hígado encebollado o sudado de pescado. Incluye huevo y bebida caliente a escoger.",
     "stock": null,
@@ -311,7 +311,7 @@
     "precio": "6.40",
     "precio_promo": "",
     "categorias": [
-      "delicias-verde"
+      "bolones"
     ],
     "descripcion": "Bolón de verde relleno bañado en un cremoso encocado de camarón o pescado, con aroma a coco. Incluye huevo y bebida caliente a escoger.",
     "stock": null,
@@ -354,7 +354,7 @@
     "precio": "2.00",
     "precio_promo": "",
     "categorias": [
-      "delicias-verde"
+      "bolones"
     ],
     "descripcion": "Bolón de maduro con el dulce del plátano en su punto y relleno de queso, chicharrón o mixto.",
     "stock": null,
@@ -389,7 +389,7 @@
     "precio": "2.00",
     "precio_promo": "",
     "categorias": [
-      "delicias-verde"
+      "bolones"
     ],
     "descripcion": "Bolón de verde recién amasado, dorado y crocante por fuera, suavecito por dentro. Relleno a elegir: queso, chicharrón o mixto.",
     "stock": null,
@@ -424,7 +424,7 @@
     "precio": "9.00",
     "precio_promo": "",
     "categorias": [
-      "delicias-verde"
+      "bolones"
     ],
     "descripcion": "Nuestro bolón marinero: verde crocante coronado con un festín de mariscos en salsa costeña.",
     "stock": null,
@@ -816,7 +816,7 @@
     "precio": "1.60",
     "precio_promo": "",
     "categorias": [
-      "empanadas-yuca"
+      "bolones"
     ],
     "descripcion": "Empanada de verde crocante y doradita, rellena a tu gusto: queso, pollo o camarón.",
     "stock": null,
@@ -1362,7 +1362,7 @@
     "precio": "2.50",
     "precio_promo": "",
     "categorias": [
-      "delicias-verde"
+      "tigrillos"
     ],
     "descripcion": "Tradicional tigrillo de verde majado con queso, chicharrón o mixto: cremoso, humeante y bien servido.",
     "stock": null,
@@ -1397,7 +1397,7 @@
     "precio": "3.20",
     "precio_promo": "",
     "categorias": [
-      "delicias-verde"
+      "tigrillos"
     ],
     "descripcion": "Cremoso tigrillo de verde con tu relleno favorito. Incluye huevo y bebida caliente a escoger.",
     "stock": null,
@@ -1432,7 +1432,7 @@
     "precio": "4.20",
     "precio_promo": "",
     "categorias": [
-      "delicias-verde"
+      "tigrillos"
     ],
     "descripcion": "Tigrillo de verde acompañado de un seco a elección —carne, pollo, chancho o costilla. Incluye huevo y bebida caliente a escoger.",
     "stock": null,
@@ -1477,7 +1477,7 @@
     "precio": "5.20",
     "precio_promo": "",
     "categorias": [
-      "delicias-verde"
+      "tigrillos"
     ],
     "descripcion": "Tigrillo de verde con bistec de hígado encebollado o sudado de pescado. Incluye huevo y bebida caliente a escoger.",
     "stock": null,
@@ -1520,7 +1520,7 @@
     "precio": "6.40",
     "precio_promo": "",
     "categorias": [
-      "delicias-verde"
+      "tigrillos"
     ],
     "descripcion": "Tigrillo de verde bañado en cremoso encocado de camarón o pescado. Incluye huevo y bebida caliente a escoger.",
     "stock": null,
@@ -1563,7 +1563,7 @@
     "precio": "9.25",
     "precio_promo": "",
     "categorias": [
-      "delicias-verde"
+      "tigrillos"
     ],
     "descripcion": "Tigrillo marinero: verde majado y cremoso rebosante de mariscos en salsa de la casa.",
     "stock": null,

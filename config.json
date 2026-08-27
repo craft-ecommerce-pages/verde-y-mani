@@ -4,12 +4,12 @@
     "almuerzos": "🍽️ Almuerzos",
     "arroces": "🍚 Arroces",
     "bebidas": "🥤 Bebidas",
-    "delicias-verde": "🍌 Delicias de Verde",
+    "bolones": "🫓 Bolones",
     "desayunos": "🍳 Desayunos",
-    "empanadas-yuca": "🥟 Empanadas y Yuca",
     "encebollados-ceviches": "🍋 Encebollados y Ceviches",
     "especiales": "🦀 Especiales",
-    "pescados-mariscos": "🐟 Pescados y Mariscos"
+    "pescados-mariscos": "🐟 Pescados y Mariscos",
+    "tigrillos": "🥚 Tigrillos"
   },
   "category_order": [
     "desayunos",
