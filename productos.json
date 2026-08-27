@@ -1276,7 +1276,9 @@
     ],
     "descripcion": "Seco criollo cocido a fuego lento en su salsa, a elección: carne, pollo, chancho o costilla. Con arroz.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/seco/images/seco-1.webp"
+    ],
     "variantes": [
       {
         "name": "Tipo",
@@ -1313,7 +1315,9 @@
     ],
     "descripcion": "Sopa marinera de la casa: un caldo intenso y humeante colmado de mariscos frescos.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/sopa-marinera/images/sopa-marinera-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -1328,7 +1332,9 @@
     ],
     "descripcion": "Té caliente y reconfortante, perfecto para acompañar el desayuno.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/te-caliente/images/te-caliente-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
