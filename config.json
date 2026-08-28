@@ -1,5 +1,7 @@
 {
   "badge_category": "delicias-verde",
+  "catalog_notify_token": "273299bc-6665-4c70-b68e-e7b33bacc22b",
+  "catalog_notify_url": "https://crm.craftmarketing.agency/api/v1/catalog/notify-order",
   "categories": {
     "almuerzos": "🍽️ Almuerzos",
     "arroces": "🍚 Arroces",
