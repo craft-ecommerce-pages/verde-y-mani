@@ -1425,7 +1425,16 @@
     "imagenes": [
       "/producto/sopa-marinera/images/sopa-marinera-1.webp"
     ],
-    "variantes": [],
+    "variantes": [
+      {
+        "name": "Escoje tu proteína",
+        "options": [
+          "Cangrejo",
+          "Langostino"
+        ],
+        "type": "option"
+      }
+    ],
     "sku": ""
   },
   {
