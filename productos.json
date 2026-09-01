@@ -335,6 +335,14 @@
           "Sudado de pescado"
         ],
         "type": "option"
+      },
+      {
+        "name": "Elije tu masa",
+        "options": [
+          "Pataconeada",
+          "Cocinada"
+        ],
+        "type": "option"
       }
     ],
     "sku": ""
