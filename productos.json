@@ -440,12 +440,12 @@
             "price": 9
           },
           {
-            "label": "Chicharrón ($10.00)",
-            "price": 10
+            "label": "Chicharrón ($9.50)",
+            "price": 9.5
           },
           {
-            "label": "Mixto ($9.50)",
-            "price": 9.5
+            "label": "Mixto ($10.00)",
+            "price": 10
           }
         ]
       }
