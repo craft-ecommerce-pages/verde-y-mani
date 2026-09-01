@@ -81,7 +81,16 @@
     "imagenes": [
       "/producto/arroz-marinero/images/arroz-marinero-1.webp"
     ],
-    "variantes": [],
+    "variantes": [
+      {
+        "name": "Escoge tu Proteína",
+        "options": [
+          "Langostino",
+          "Cangrejo"
+        ],
+        "type": "option"
+      }
+    ],
     "sku": ""
   },
   {
