@@ -475,6 +475,14 @@
             "price": 10
           }
         ]
+      },
+      {
+        "name": "Elije tu masa",
+        "options": [
+          "Pataconeada",
+          "Cocinada"
+        ],
+        "type": "option"
       }
     ],
     "sku": ""
