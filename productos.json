@@ -987,7 +987,17 @@
     "imagenes": [
       "/producto/encebollado-mixto/images/encebollado-mixto-1.webp"
     ],
-    "variantes": [],
+    "variantes": [
+      {
+        "name": "Elije tu Mix",
+        "options": [
+          "Pescado",
+          "Camarón",
+          "Concha"
+        ],
+        "type": "option"
+      }
+    ],
     "sku": ""
   },
   {
