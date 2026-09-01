@@ -1190,7 +1190,8 @@
           "Naranjilla",
           "Mango",
           "Coco",
-          "Guanábana"
+          "Guanábana",
+          "Naranja"
         ],
         "type": "option"
       }
@@ -1454,7 +1455,7 @@
     "id": "5312871c-b264-4d11-810d-d7b26e66593f",
     "slug": "te-caliente",
     "nombre": "Té caliente",
-    "precio": "3.00",
+    "precio": "0.85",
     "precio_promo": "",
     "categorias": [
       "bebidas"
