@@ -991,6 +991,45 @@
     "sku": ""
   },
   {
+    "id": "5a8b735d-7ca8-4de2-a5b6-158ccd75a24a",
+    "slug": "filete-de-pescado",
+    "nombre": "Filete de Pescado",
+    "precio": "8.00",
+    "precio_promo": "",
+    "categorias": [
+      "delicias-costa"
+    ],
+    "descripcion": "Filete de Pescado fresco preparado como más te gusta: a la plancha, al ajillo, encocado o sudado, siempre jugoso.",
+    "stock": null,
+    "imagenes": [
+      "/producto/filete-de-pescado/images/filete-de-pescado-1.webp"
+    ],
+    "variantes": [
+      {
+        "name": "Preparación",
+        "options": [
+          {
+            "label": "A la plancha ($8.00)",
+            "price": 8
+          },
+          {
+            "label": "Al ajillo ($8.50)",
+            "price": 8.5
+          },
+          {
+            "label": "Encocado ($8.50)",
+            "price": 8.5
+          },
+          {
+            "label": "Sudado ($8.00)",
+            "price": 8
+          }
+        ]
+      }
+    ],
+    "sku": ""
+  },
+  {
     "id": "d334780d-5332-45aa-a1a3-8db400bf8a7c",
     "slug": "gaseosa-mediana",
     "nombre": "Gaseosa mediana",
@@ -1268,45 +1307,6 @@
       "/producto/parrillada-mar-y-tierra/images/parrillada-mar-y-tierra-1.webp"
     ],
     "variantes": [],
-    "sku": ""
-  },
-  {
-    "id": "5a8b735d-7ca8-4de2-a5b6-158ccd75a24a",
-    "slug": "pescado",
-    "nombre": "Pescado",
-    "precio": "8.00",
-    "precio_promo": "",
-    "categorias": [
-      "delicias-costa"
-    ],
-    "descripcion": "Pescado fresco preparado como más te gusta: a la plancha, al ajillo, encocado o sudado, siempre jugoso.",
-    "stock": null,
-    "imagenes": [
-      "/producto/pescado/images/pescado-1.webp"
-    ],
-    "variantes": [
-      {
-        "name": "Preparación",
-        "options": [
-          {
-            "label": "A la plancha ($8.00)",
-            "price": 8
-          },
-          {
-            "label": "Al ajillo ($8.50)",
-            "price": 8.5
-          },
-          {
-            "label": "Encocado ($8.50)",
-            "price": 8.5
-          },
-          {
-            "label": "Sudado ($8.00)",
-            "price": 8
-          }
-        ]
-      }
-    ],
     "sku": ""
   },
   {
