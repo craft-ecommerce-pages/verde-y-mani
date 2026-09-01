@@ -544,16 +544,16 @@
         "name": "Porción",
         "options": [
           {
-            "label": "Ideal · 2 cangrejos ($15.00)",
-            "price": 15
+            "label": "Ideal · 2 cangrejos ($8.00)",
+            "price": 8
           },
           {
-            "label": "Dúo · 4 cangrejos ($15.00)",
-            "price": 15
+            "label": "Dúo · 4 cangrejos ($14.00)",
+            "price": 14
           },
           {
-            "label": "Familiar · 8 cangrejos ($15.00)",
-            "price": 15
+            "label": "Familiar · 8 cangrejos ($24.00)",
+            "price": 24
           }
         ]
       },
