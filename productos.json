@@ -1072,7 +1072,20 @@
     "imagenes": [
       "/producto/gaseosa-mediana/images/gaseosa-mediana-1.webp"
     ],
-    "variantes": [],
+    "variantes": [
+      {
+        "name": "Sabor",
+        "options": [
+          "Coca",
+          "Sprite",
+          "Fanta",
+          "Inca",
+          "Fiora Fresa",
+          "Fiora Manzana"
+        ],
+        "type": "option"
+      }
+    ],
     "sku": ""
   },
   {
